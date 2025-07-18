@@ -3,8 +3,6 @@
 // intervals[i][0] = startTime and intervals[i][1] = endTime
 // Return minimum number of rooms required to schedule all meeting without any overlaps.
 
-import java.util.*;
-
 public class MeetingRoomsII {
     public static int meetingRoomsII(int intervals[][]) {
         int n = intervals.length;
