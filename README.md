@@ -10,6 +10,10 @@
 
 ### [Remove Duplicates from Sorted Array II](./LeetCode/RemoveDuplicatesFromSortedArrayII.java)
 
+### [Majority Element](./LeetCode/MajorityElement.java)
+
+### [Rotate Array](./LeetCode/RotateArray.java)
+
 ### [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
 
 ### [Meeting Rooms II](./LeetCode/MeetingRoomsII.java)
