@@ -18,6 +18,10 @@
 
 ### [Best Time to Buy and Sell Stock II](./LeetCode/BestTimeToBuyAndSellStockII.java)
 
+### [Jump Game](./LeetCode/JumpGame.java)
+
+### [Jump Game II](./LeetCode/JumpGameII.java)
+
 ### [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
 
 ### [Meeting Rooms II](./LeetCode/MeetingRoomsII.java)
