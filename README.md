@@ -22,6 +22,10 @@
 
 ### [Jump Game II](./LeetCode/JumpGameII.java)
 
+### [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
+
+### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
+
 ### [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
 
 ### [Meeting Rooms II](./LeetCode/MeetingRoomsII.java)
