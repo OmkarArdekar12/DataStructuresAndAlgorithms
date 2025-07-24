@@ -30,6 +30,8 @@
 
 ### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
 
+### [Minimum Score After Removals on a Tree](./LeetCode/MinimumScoreAfterRemovalsOnATree.java)
+
 ### [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
 
 ### [Meeting Rooms II](./LeetCode/MeetingRoomsII.java)
