@@ -22,6 +22,10 @@
 
 ### [Jump Game II](./LeetCode/JumpGameII.java)
 
+### [H-Index](./LeetCode/HIndex.java)
+
+### [Insert Delete GetRandom O(1)](./LeetCode/InsertDeleteGetRandomInConstantTime.java)
+
 ### [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
 
 ### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
