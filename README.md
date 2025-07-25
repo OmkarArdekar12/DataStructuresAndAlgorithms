@@ -26,11 +26,19 @@
 
 ### [Insert Delete GetRandom O(1)](./LeetCode/InsertDeleteGetRandomInConstantTime.java)
 
+### [Product of Array Except Self](./LeetCode/ProductOfArrayExceptSelf.java)
+
+### [Gas Station](./LeetCode/GasStation.java)
+
 ### [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
 
 ### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
 
 ### [Minimum Score After Removals on a Tree](./LeetCode/MinimumScoreAfterRemovalsOnATree.java)
+
+### [Minimum Number of Operations to Make Array Continuous](./LeetCode/MinimumNumberOfOperationToMakeArrayContinuous.java)
+
+### [Maximum Unique Subarray Sun After Deletion](./LeetCode/MaximumUniquiSubarraySumAfterDeletion.java)
 
 ### [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
 
