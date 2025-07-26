@@ -30,6 +30,10 @@
 
 ### [Gas Station](./LeetCode/GasStation.java)
 
+### [Candy](./LeetCode/Candy.java)
+
+### [Trapping Rain Water](./LeetCode/TrappingRainWater.java)
+
 ### [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
 
 ### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
