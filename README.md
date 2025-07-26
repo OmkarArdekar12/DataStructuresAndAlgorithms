@@ -44,7 +44,11 @@
 
 ### [Maximum Unique Subarray Sun After Deletion](./LeetCode/MaximumUniquiSubarraySumAfterDeletion.java)
 
+### [Find All People With Secret](./LeetCode/FindAllPeopleWithSecret.java)
+
 ### [Contains Duplicate I](./LeetCode/ContainsDuplicateI.java)
+
+### [Contains Duplicate II](./LeetCode/ContainsDuplicateII.java)
 
 ### [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
 
