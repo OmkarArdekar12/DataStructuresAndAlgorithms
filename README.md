@@ -46,9 +46,15 @@
 
 ### [Find All People With Secret](./LeetCode/FindAllPeopleWithSecret.java)
 
+### [Number of Flowers in Full Bloom](./LeetCode/NumberOfFlowersInFullBloom.java)
+
+### [Replace Non-Coprime Numbers in Array](./LeetCode/ReplaceNonCoprimeNumbersinArray.java)
+
 ### [Contains Duplicate I](./LeetCode/ContainsDuplicateI.java)
 
 ### [Contains Duplicate II](./LeetCode/ContainsDuplicateII.java)
+
+## [Contains Duplicate III](./LeetCode/ContainsDuplicateIII.java)
 
 ### [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
 
