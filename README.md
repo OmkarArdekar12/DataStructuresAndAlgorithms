@@ -34,6 +34,14 @@
 
 ### [Trapping Rain Water](./LeetCode/TrappingRainWater.java)
 
+### [Roman to Integer](./LeetCode/RomanToInteger.java)
+
+### [Integer to Roman](./LeetCode/IntegerToRoman.java)
+
+### [Length of Last Word](./LeetCode/LengthOfLastWord.java)
+
+### [Longest Common Prefix](./LeetCode/LongestCommonPrefix.java)
+
 ### [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
 
 ### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
