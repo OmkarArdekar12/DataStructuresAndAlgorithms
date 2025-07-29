@@ -70,7 +70,7 @@
 
 ### [Contains Duplicate II](./LeetCode/ContainsDuplicateII.java)
 
-## [Contains Duplicate III](./LeetCode/ContainsDuplicateIII.java)
+### [Contains Duplicate III](./LeetCode/ContainsDuplicateIII.java)
 
 ### [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
 
