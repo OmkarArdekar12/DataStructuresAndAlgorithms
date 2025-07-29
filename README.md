@@ -42,6 +42,14 @@
 
 ### [Longest Common Prefix](./LeetCode/LongestCommonPrefix.java)
 
+### [Reverse Words in a String](./LeetCode/ReverseWordsInAString.java)
+
+### [Zigzag Conversion](./LeetCode/ZigzagConversion.java)
+
+### [Find the Index of the First Occurrence in a String](./LeetCode/FindTheIndexOfTheFirstOccurrenceInAString.java)
+
+### [Text Justification](./LeetCode/TextJustification.java)
+
 ### [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
 
 ### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
