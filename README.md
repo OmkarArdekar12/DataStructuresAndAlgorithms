@@ -50,6 +50,14 @@
 
 ### [Text Justification](./LeetCode/TextJustification.java)
 
+### [Valid Palindrome](./LeetCode/ValidPalindrome.java)
+
+### [Is Subsequence](./LeetCode/IsSubsequence.java)
+
+### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
+
+### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
+
 ### [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
 
 ### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
