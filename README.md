@@ -58,6 +58,10 @@
 
 ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
 
+### [Find the Longest Valid Obstacle Course at Each Position](./LeetCode/FindTheLongestValidObstacleCourseAtEachPosition.java)
+
+### [Minimum Insertion Steps to Make a String Palindrome](./LeetCode/MinimumInsertionStepsToMakeAStringPalindrome.java)
+
 ### [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
 
 ### [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
