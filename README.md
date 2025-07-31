@@ -54,6 +54,12 @@
 
 ### [Is Subsequence](./LeetCode/IsSubsequence.java)
 
+### [Two Sum II - Input Array Is Sorted](./LeetCode/TwoSumIIInputArrayIsSorted.java)
+
+### [Container With Most Water](./LeetCode/ContainerWithMostWater.java)
+
+### [3Sum](./LeetCode/ThreeSum.java)
+
 ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 
 ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
