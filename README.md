@@ -95,3 +95,7 @@
 ### [Meeting Rooms II](./LeetCode/MeetingRoomsII.java)
 
 ### [Meeting Rooms III](./LeetCode/MeetingRoomsIII.java)
+
+### [Design a Text Editor](./LeetCode/DesignATextEditor.java)
+
+### [Design Skiplist](./LeetCode/DesignSkiplist.java)
