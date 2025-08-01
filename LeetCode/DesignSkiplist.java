@@ -45,7 +45,6 @@ class Skiplist {
         while(curr.next != null && num >= curr.next.val) {
             curr = curr.next;
         }
-        Node temp = curr.next;
         Node newNode = new Node(num);
         newNode.next = curr.next;
         curr.next = newNode;
