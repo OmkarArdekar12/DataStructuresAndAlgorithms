@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class FindArrayStateArrayAfterKMultiplicationOperationsII {
+public class FinalArrayStateArrayAfterKMultiplicationOperationsII {
     //You will see that, after sometime we reach the iterating point, where the order repeats after
     //every n iteration.
     //Optimization takes place here:
