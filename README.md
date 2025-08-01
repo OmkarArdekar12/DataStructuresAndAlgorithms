@@ -60,6 +60,10 @@
 
 ### [3Sum](./LeetCode/ThreeSum.java)
 
+### [Minimum Size Subarray Sum](./LeetCode/MinimumSizeSubarraySum.java)
+
+### [Longest Substring Without Repeating Characters](./LeetCode/LongestSubstringWithoutRepeatingCharacters.java)
+
 ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 
 ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
