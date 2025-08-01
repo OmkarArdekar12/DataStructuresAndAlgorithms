@@ -103,3 +103,7 @@
 ### [Design a Text Editor](./LeetCode/DesignATextEditor.java)
 
 ### [Design Skiplist](./LeetCode/DesignSkiplist.java)
+
+### [Final Array State After K Multiplication Operations I](./LeetCode/FinalArrayStateAfterKMultiplicationOperationsI.java)
+
+### [Final Array State After K Multiplication Operations II](./LeetCode/FinalArrayStateArrayAfterKMultiplicationOperationsII.java)
