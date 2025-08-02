@@ -109,3 +109,7 @@
 ### [Final Array State After K Multiplication Operations I](./LeetCode/FinalArrayStateAfterKMultiplicationOperationsI.java)
 
 ### [Final Array State After K Multiplication Operations II](./LeetCode/FinalArrayStateArrayAfterKMultiplicationOperationsII.java)
+
+### [Longest Increasing Path in a Matrix](./LeetCode/LongestIncreasingPathInAMatrix.java)
+
+### [Longest Subarray With Maximum Bitwise AND](./LeetCode/LongestSubarrayWithMaximumBitwiseAND.java)
