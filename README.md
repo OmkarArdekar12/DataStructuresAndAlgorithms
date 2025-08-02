@@ -113,3 +113,7 @@
 ### [Longest Increasing Path in a Matrix](./LeetCode/LongestIncreasingPathInAMatrix.java)
 
 ### [Longest Subarray With Maximum Bitwise AND](./LeetCode/LongestSubarrayWithMaximumBitwiseAND.java)
+
+### [Maximum Value Sum by Placing Three Rooks I](./LeetCode/MaximumValueSumByPlacingThreeRooksI.java)
+
+### [Maximum Value Sum by Placing Three Rooks II](./LeetCode/MaximumValueSumByPlacingThreeRooksII.java)
