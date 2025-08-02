@@ -117,3 +117,7 @@
 ### [Maximum Value Sum by Placing Three Rooks I](./LeetCode/MaximumValueSumByPlacingThreeRooksI.java)
 
 ### [Maximum Value Sum by Placing Three Rooks II](./LeetCode/MaximumValueSumByPlacingThreeRooksII.java)
+
+### [Minimum Pair Removal to Sort Array I](./LeetCode/MinimumPairRemovalToSortArrayI.java)
+
+### [Minimum Pair Removal to Sort Array II](./LeetCode/MinimumPairRemovalToSortArrayII.java)
