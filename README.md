@@ -64,6 +64,10 @@
 
 ### [Longest Substring Without Repeating Characters](./LeetCode/LongestSubstringWithoutRepeatingCharacters.java)
 
+### [Substring with Concatenation of All Words](./LeetCode/SubstringWithConcatenationOfAllWords.java)
+
+### [Minimum Window Substring](./LeetCode/MinimumWindowSubstring.java)
+
 ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 
 ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
