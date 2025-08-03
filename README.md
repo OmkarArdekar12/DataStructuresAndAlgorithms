@@ -68,6 +68,10 @@
 
 ### [Minimum Window Substring](./LeetCode/MinimumWindowSubstring.java)
 
+### [Valid Sudoku](./LeetCode/ValidSudoku.java)
+
+### [Spiral Matrix](./LeetCode/SpiralMatrix.java)
+
 ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 
 ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
