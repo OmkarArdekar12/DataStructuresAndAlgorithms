@@ -135,3 +135,5 @@
 ### [Sliding Window Median](./LeetCode/SlidingWindowMedian.java)
 
 ### [Smallest Palindromic Rearrangement I](./LeetCode/SmallestPalindromicRearrangementI.java)
+
+### [Smallest Palindromic Rearrangement II](./LeetCode/SmallestPalindromicRearrangementII.java)
