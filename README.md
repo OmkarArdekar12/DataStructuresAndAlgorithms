@@ -133,3 +133,5 @@
 ### [Rearranging Fruits](./LeetCode/RearrangingFruits.java)
 
 ### [Sliding Window Median](./LeetCode/SlidingWindowMedian.java)
+
+### [Smallest Palindromic Rearrangement I](./LeetCode/SmallestPalindromicRearrangementI.java)
