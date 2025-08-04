@@ -137,3 +137,5 @@
 ### [Smallest Palindromic Rearrangement I](./LeetCode/SmallestPalindromicRearrangementI.java)
 
 ### [Smallest Palindromic Rearrangement II](./LeetCode/SmallestPalindromicRearrangementII.java)
+
+### [Smallest Subarrays With Maximum Bitwise OR](./LeetCode/SmallestSubarraysWithMaximumBitwiseOR.java)
