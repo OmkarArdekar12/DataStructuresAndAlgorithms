@@ -1,6 +1,6 @@
 # DSA Problem Solving
 
-## LeetCode Problems
+## LeetCode Problems Index
 
 - ### [Merge Sorted Arrays](./LeetCode/MergeSortedArray.java)
 
