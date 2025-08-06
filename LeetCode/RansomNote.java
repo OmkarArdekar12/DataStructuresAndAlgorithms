@@ -1,3 +1,5 @@
+// Ransom Note
+
 public class RansomNote {
     public static boolean canConstruct(String ransomNote, String magazine) {
         int n = magazine.length(), m = ransomNote.length();
