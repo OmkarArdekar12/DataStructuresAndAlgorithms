@@ -78,6 +78,8 @@
 
 - ### [Game of Life](./LeetCode/GameOfLife.java)
 
+- ### [Ransom Note](./LeetCode/RansomNote.java)
+
 - ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 
 - ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
