@@ -72,6 +72,8 @@
 
 - ### [Spiral Matrix](./LeetCode/SpiralMatrix.java)
 
+- ### [Rotate Image](./LeetCode/RotateImage.java)
+
 - ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 
 - ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
