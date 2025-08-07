@@ -42,6 +42,7 @@
 - ### [Game of Life](./LeetCode/GameOfLife.java)
 - ### [Ransom Note](./LeetCode/RansomNote.java)
 - ### [Isomorphic Strings](./LeetCode/IsomorphicStrings.java)
+- ### [Word Pattern](./LeetCode/WordPattern.java)
 - ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 - ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
 - ### [Find the Longest Valid Obstacle Course at Each Position](./LeetCode/FindTheLongestValidObstacleCourseAtEachPosition.java)
