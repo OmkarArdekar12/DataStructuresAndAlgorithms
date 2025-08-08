@@ -50,11 +50,61 @@ public class GameOfLife {
         // }
         // return;
 
+        // int m = board.length, n = board[0].length;
+        // int neighbors[] = new int[8];
+        // for(int i=0; i<m; ++i) {
+        //     for(int j=0; j<n; ++j) {
+        //         int liveCount = 0, deadCount = 0;
+        //         boolean up = i - 1 >= 0;
+        //         boolean down = i + 1 < m;
+        //         boolean left = j - 1 >= 0;
+        //         boolean right = j + 1 < n;
+        //         neighbors[0] = up ? board[i-1][j] : -1; //top
+        //         neighbors[1] = down ? board[i+1][j] : -1; //bottom
+        //         neighbors[2] = left ? board[i][j-1] : -1; //left
+        //         neighbors[3] = right ? board[i][j+1] : -1; //right
+        //         neighbors[4] = (up && left) ? board[i-1][j-1] : -1; //top-left
+        //         neighbors[5] = (up && right) ? board[i-1][j+1] : -1; //top-right
+        //         neighbors[6] = (down && left) ? board[i+1][j-1] : -1; //bottom-left
+        //         neighbors[7] = (down && right) ? board[i+1][j+1] : -1; //bottom-right
+        //         //currentState: live=1, dead=0
+        //         //nextState: live=3, dead=2
+        //         for(int k=0; k<8; ++k) {
+        //             if(neighbors[k] == 1 || neighbors[k] == 2) {
+        //                 ++liveCount;
+        //             } else { //neighbors[k] == 0 || neighbors[k] == 3
+        //                 ++deadCount;
+        //             }
+        //         }
+
+        //         if(board[i][j] == 0) {
+        //             if(liveCount == 3) {
+        //                 board[i][j] = 3;
+        //             }
+        //         } else {
+        //             if(liveCount < 2 || liveCount > 3) {
+        //                 board[i][j] = 2;
+        //             }
+        //         }
+        //     }
+        // }
+        // for(int i=0; i<m; ++i) {
+        //     for(int j=0; j<n; ++j) {
+        //         if(board[i][j] == 2) {
+        //             board[i][j] = 0;
+        //         }
+        //         if(board[i][j] == 3) {
+        //             board[i][j] = 1;
+        //         }
+        //     }
+        // }
+        // return;
+
         int m = board.length, n = board[0].length;
         int neighbors[] = new int[8];
         for(int i=0; i<m; ++i) {
             for(int j=0; j<n; ++j) {
-                int liveCount = 0, deadCount = 0;
+                int liveCount = 0;
                 boolean up = i - 1 >= 0;
                 boolean down = i + 1 < m;
                 boolean left = j - 1 >= 0;
@@ -72,8 +122,6 @@ public class GameOfLife {
                 for(int k=0; k<8; ++k) {
                     if(neighbors[k] == 1 || neighbors[k] == 2) {
                         ++liveCount;
-                    } else { //neighbors[k] == 0 || neighbors[k] == 3
-                        ++deadCount;
                     }
                 }
 
