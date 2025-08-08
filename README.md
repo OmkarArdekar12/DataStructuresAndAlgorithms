@@ -81,3 +81,4 @@
 - ### [Smallest Palindromic Rearrangement II](./LeetCode/SmallestPalindromicRearrangementII.java)
 - ### [Smallest Subarrays With Maximum Bitwise OR](./LeetCode/SmallestSubarraysWithMaximumBitwiseOR.java)
 - ### [Pascal's Triangle](./LeetCode/PascalsTriangle.java)
+- ### [Maximum Fruits Harvested After at Most K Steps](./LeetCode/MaximumFruitsHarvestedAfterAtMostKSteps.java)
