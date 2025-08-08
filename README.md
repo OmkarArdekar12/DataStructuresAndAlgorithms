@@ -82,3 +82,4 @@
 - ### [Smallest Subarrays With Maximum Bitwise OR](./LeetCode/SmallestSubarraysWithMaximumBitwiseOR.java)
 - ### [Pascal's Triangle](./LeetCode/PascalsTriangle.java)
 - ### [Maximum Fruits Harvested After at Most K Steps](./LeetCode/MaximumFruitsHarvestedAfterAtMostKSteps.java)
+- ### [Fruit Into Baskets](./LeetCode/FruitIntoBaskets.java)
