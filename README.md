@@ -1,5 +1,7 @@
 ## <h1 align="center">DSA Problem Solving</h1>
 
+<br>
+
 # LeetCode
 
 - ### [Merge Sorted Arrays](./LeetCode/MergeSortedArray.java)
