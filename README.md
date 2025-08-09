@@ -1,6 +1,6 @@
-# DSA Problem Solving
+## <h1 align="center">DSA Problem Solving</h1>
 
-## LeetCode
+# LeetCode
 
 - ### [Merge Sorted Arrays](./LeetCode/MergeSortedArray.java)
 - ### [Remove Element](./LeetCode/RemoveElement.java)
@@ -88,3 +88,5 @@
 - ### [Fruit Into Baskets](./LeetCode/FruitIntoBaskets.java)
 - ### [Fruits Into Baskets II](./LeetCode/FruitsIntoBasketsII.java)
 - ### [Fruits Into Baskets III](./LeetCode/FruitsIntoBasketsIII.java)
+
+---
