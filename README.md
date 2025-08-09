@@ -47,6 +47,7 @@
 - ### [Group Anagrams](./LeetCode/GroupAnagrams.java)
 - ### [Two Sum](./LeetCode/TwoSum.java)
 - ### [Happy Number](./LeetCode/HappyNumber.java)
+- ### [Contains Duplicate](./LeetCode/ContainsDuplicateII.java)
 - ### [Longest Consecutive Sequence](./LeetCode/LongestConsecutiveSequence.java)
 - ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 - ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
