@@ -36,7 +36,7 @@ public class InsertInterval {
         int intervals[][] = {{1,3}, {6,9}}, newInterval[] = {2,5};
         int res[][] = insert(intervals, newInterval);
         for(int i[] : res) {
-            System.out.println(Arrays.toString(res));
+            System.out.println(Arrays.toString(i));
         }
     }
 }
