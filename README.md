@@ -51,6 +51,7 @@
 - ### [Happy Number](./LeetCode/HappyNumber.java)
 - ### [Contains Duplicate II](./LeetCode/ContainsDuplicateII.java)
 - ### [Longest Consecutive Sequence](./LeetCode/LongestConsecutiveSequence.java)
+- ### [Summary Ranges](./LeetCode/SummaryRanges.java)
 - ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 - ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
 - ### [Find the Longest Valid Obstacle Course at Each Position](./LeetCode/FindTheLongestValidObstacleCourseAtEachPosition.java)
