@@ -93,5 +93,6 @@
 - ### [Fruit Into Baskets](./LeetCode/FruitIntoBaskets.java)
 - ### [Fruits Into Baskets II](./LeetCode/FruitsIntoBasketsII.java)
 - ### [Fruits Into Baskets III](./LeetCode/FruitsIntoBasketsIII.java)
+- ### [Reordered Power of 2](./LeetCode/ReorderedPowerOf2.java)
 
 ---
