@@ -54,6 +54,8 @@
 - ### [Summary Ranges](./LeetCode/SummaryRanges.java)
 - ### [Merge Intervals](./LeetCode/MergeIntervals.java)
 - ### [Insert Interval](./LeetCode/InsertInterval.java)
+- ### [Minimum Number of Arrows to Burst Balloons](./LeetCode/MinimumNumberOfArrowsToBurstBalloons.java)
+- ### [Valid Parentheses](./LeetCode/ValidParentheses.java)
 - ### [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
 - ### [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
 - ### [Find the Longest Valid Obstacle Course at Each Position](./LeetCode/FindTheLongestValidObstacleCourseAtEachPosition.java)
