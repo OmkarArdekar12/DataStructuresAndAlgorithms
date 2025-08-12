@@ -26,6 +26,7 @@ public class LongestSubarrayWithMaximumBitwiseAND {
         //     longestSubarrayLength = Math.max(longestSubarrayLength, currSubarrayLength);
         // }
         // return longestSubarrayLength;
+        
         int n = nums.length;
         int maxBitwiseAnd = 0;
         for(int i=0; i<n; ++i) {
