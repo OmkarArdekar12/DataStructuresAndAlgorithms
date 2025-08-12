@@ -17,7 +17,6 @@ public class ContainsDuplicateIII {
     //We can implement this approach using HashMap or TreeSet.
     // public static boolean containsNearbyAlmostDuplicate(int[] nums, int indexDiff, int valueDiff) {
     //     int n = nums.length;
-
     //     TreeSet<Integer> set = new TreeSet<>();
     //     //We can Long also instead of Integer
     //     //to remove Long we have to set.remove(1L * (nums[i - indexDiff]))
@@ -25,23 +24,20 @@ public class ContainsDuplicateIII {
     //         int curr = nums[i];
     //         Integer floorVal = set.floor(curr);
     //         Integer ceilVal = set.ceiling(curr);
-
     //         if(floorVal != null && Math.abs(curr - floorVal) <= valueDiff) {
     //             return true;
     //         }
     //         if(ceilVal != null && Math.abs(curr - ceilVal) <= valueDiff) {
     //             return true;
     //         }
-
     //         set.add(curr);
-
     //         if(set.size() > indexDiff) {
     //             set.remove(nums[i - indexDiff]);
     //         }
     //     }
-
     //     return false;
     // }
+
     public static boolean containsNearbyAlmostDuplicate(int[] nums, int indexDiff, int valueDiff) {
         int n = nums.length;
 
