@@ -20,6 +20,7 @@ public class FinalArrayStateAfterKMultiplicationOperationsI {
         //     nums[curr[0]] = curr[1];
         // }
         // return nums;
+        
         int n = nums.length;
         for(int i=0; i<k; ++i) {
             int minIdx = 0;
