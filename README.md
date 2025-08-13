@@ -98,5 +98,6 @@
 - ### [Reordered Power of 2](./LeetCode/ReorderedPowerOf2.java)
 - ### [Range Product Queries of Powers](./LeetCode/RangeProductQueriesOfPowers.java)
 - ### [Power of Two](./LeetCode/PowerOfTwo.java)
+- ### [Power of Three](./LeetCode/PowerOfThree.java)
 
 ---
