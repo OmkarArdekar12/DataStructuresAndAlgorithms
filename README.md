@@ -99,5 +99,6 @@
 - ### [Range Product Queries of Powers](./LeetCode/RangeProductQueriesOfPowers.java)
 - ### [Power of Two](./LeetCode/PowerOfTwo.java)
 - ### [Power of Three](./LeetCode/PowerOfThree.java)
+- ### [Power of Four](./LeetCode/PowerOfFour.java)
 
 ---
