@@ -100,5 +100,6 @@
 - ### [Power of Four](./LeetCode/PowerOfFour.java)
 - ### [Reordered Power of 2](./LeetCode/ReorderedPowerOf2.java)
 - ### [Range Product Queries of Powers](./LeetCode/RangeProductQueriesOfPowers.java)
+- ### [Maximum Good Subarray Sum](./LeetCode/MaximumGoodSubarrySum.java)
 
 ---
