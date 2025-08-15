@@ -1,4 +1,4 @@
-## <h1 align="center">DSA Problem Solving</h1>
+<h1 align="center">DSA Problem Solving</h1>
 
 <br>
 
