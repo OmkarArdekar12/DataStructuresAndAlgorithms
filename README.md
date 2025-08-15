@@ -2,7 +2,7 @@
 
 <br>
 
-## LeetCode
+<h2 align="center">LeetCode</h2>
 
 - ### [Merge Sorted Arrays](./LeetCode/MergeSortedArray.java)
 - ### [Remove Element](./LeetCode/RemoveElement.java)
