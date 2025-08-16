@@ -101,5 +101,6 @@
 - ### [Reordered Power of 2](./LeetCode/ReorderedPowerOf2.java)
 - ### [Range Product Queries of Powers](./LeetCode/RangeProductQueriesOfPowers.java)
 - ### [Maximum Good Subarray Sum](./LeetCode/MaximumGoodSubarrySum.java)
+- ### [Max Value of Equation](./LeetCode/MaxValueOfEquation.java)
 
 ---
