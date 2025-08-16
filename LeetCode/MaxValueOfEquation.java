@@ -19,7 +19,13 @@ public class MaxValueOfEquation {
         public V getValue() {
             return this.val;
         }
+
+        @Override
+        public String toString() {
+            return "(" + this.key + ", " + this.val + ")";
+        }
     }
+
     public static int findMaxValueOfEquation(int[][] points, int k) {
         //Logic
         //to find the maxPair such that -> Yi + Yj + |Xi - Xj|
@@ -44,9 +50,27 @@ public class MaxValueOfEquation {
         // }
         // return res;       
          
+        // int n = points.length;
+        // int res = Integer.MIN_VALUE;
+        // Deque<Pair<Integer, Integer>> dq = new ArrayDeque<>();
+        // for(int i=0; i<n; ++i) {
+        //     int x = points[i][0], y = points[i][1];
+        //     while(!dq.isEmpty() && x - dq.peekFirst().getValue() > k) {
+        //         dq.removeFirst();
+        //     }
+        //     if(!dq.isEmpty()) {
+        //         res = Math.max(res, dq.peekFirst().getKey() + x + y);
+        //     }
+        //     while(!dq.isEmpty() && (y - x) > dq.peekLast().getKey()) {
+        //         dq.removeLast();
+        //     }
+        //     dq.addLast(new Pair<>(y - x, x));
+        // }
+        // return res;    
+
         int n = points.length;
         int res = Integer.MIN_VALUE;
-        Deque<Pair<Integer, Integer>> dq = new ArrayDeque<>();
+        Deque<AbstractMap.SimpleEntry<Integer, Integer>> dq = new ArrayDeque<>();
         for(int i=0; i<n; ++i) {
             int x = points[i][0], y = points[i][1];
             while(!dq.isEmpty() && x - dq.peekFirst().getValue() > k) {
@@ -58,7 +82,7 @@ public class MaxValueOfEquation {
             while(!dq.isEmpty() && (y - x) > dq.peekLast().getKey()) {
                 dq.removeLast();
             }
-            dq.addLast(new Pair<>(y - x, x));
+            dq.addLast(new AbstractMap.SimpleEntry<>(y - x, x));
         }
         return res;        
     }
