@@ -3,29 +3,24 @@
 import java.util.*;
 
 public class MaxValueOfEquation {
-    static class Pair<K, V> {
-        K key;
-        V val;
-
-        public Pair(K key, V val) {
-            this.key = key;
-            this.val = val;
-        }
-
-        public K getKey() {
-            return this.key;
-        }
-
-        public V getValue() {
-            return this.val;
-        }
-
-        @Override
-        public String toString() {
-            return "(" + this.key + ", " + this.val + ")";
-        }
-    }
-
+    // static class Pair<K, V> {
+    //     K key;
+    //     V val;
+    //     public Pair(K key, V val) {
+    //         this.key = key;
+    //         this.val = val;
+    //     }
+    //     public K getKey() {
+    //         return this.key;
+    //     }
+    //     public V getValue() {
+    //         return this.val;
+    //     }
+    //     @Override
+    //     public String toString() {
+    //         return "(" + this.key + ", " + this.val + ")";
+    //     }
+    // }
     public static int findMaxValueOfEquation(int[][] points, int k) {
         //Logic
         //to find the maxPair such that -> Yi + Yj + |Xi - Xj|
