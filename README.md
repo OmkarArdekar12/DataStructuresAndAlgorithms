@@ -106,6 +106,7 @@
 - ### [Count Substrings That Can Be Rearranged to Contain a String I](./LeetCode/CountSubstringsThatCanBeRearrangedToContainAStringI.java)
 - ### [Count Substrings That Can Be Rearranged to Contain a String II](./LeetCode/CountSubstringsThatCanBeRearrangedToContainAStringII.java)
 - ### [Find the Power of K-Size Subarrays I](./LeetCode/FindThePowerOfKSizeSubarraysI.java)
+- ### [Find the Power of K-Size Subarrays II](./LeetCode/FindThePowerOfKSizeSubarraysII.java)
 
 ---
 
