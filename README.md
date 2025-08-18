@@ -102,6 +102,7 @@
 - ### [Range Product Queries of Powers](./LeetCode/RangeProductQueriesOfPowers.java)
 - ### [Maximum Good Subarray Sum](./LeetCode/MaximumGoodSubarrySum.java)
 - ### [Max Value of Equation](./LeetCode/MaxValueOfEquation.java)
+- ### [Constrained Subsequence Sum](./LeetCode/ConstrainedSubsequenceSum.java)
 
 ---
 
