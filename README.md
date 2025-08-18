@@ -103,6 +103,7 @@
 - ### [Maximum Good Subarray Sum](./LeetCode/MaximumGoodSubarrySum.java)
 - ### [Max Value of Equation](./LeetCode/MaxValueOfEquation.java)
 - ### [Constrained Subsequence Sum](./LeetCode/ConstrainedSubsequenceSum.java)
+- ### [Count Substrings That Can Be Rearranged to Contain a String I](./LeetCode/CountSubstringsThatCanBeRearrangedToContainAStringI.java)
 
 ---
 
