@@ -109,6 +109,7 @@
 - ### [Find the Power of K-Size Subarrays II](./LeetCode/FindThePowerOfKSizeSubarraysII.java)
 - ### [24 Game](./LeetCode/TwentyFourGame.java)
 - ### [Maximum Length of Subarray With Positive Product](./LeetCode/MaximumLengthOfSubarrayWithPositiveProduct.java)
+- ### [Minimum Number of K Consecutive Bit Flips](./LeetCode/MinimumNumberOfKConsecutiveBitFlips.java)
 
 ---
 
