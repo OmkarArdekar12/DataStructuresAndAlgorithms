@@ -110,6 +110,7 @@
 - ### [24 Game](./LeetCode/TwentyFourGame.java)
 - ### [Maximum Length of Subarray With Positive Product](./LeetCode/MaximumLengthOfSubarrayWithPositiveProduct.java)
 - ### [Minimum Number of K Consecutive Bit Flips](./LeetCode/MinimumNumberOfKConsecutiveBitFlips.java)
+- ### [Number of Zero-Filled Subarrays](./LeetCode/NumberOfZeroFilledSubarrays.java)
 
 ---
 
