@@ -114,6 +114,7 @@
 - ### [Find the Count of Numbers Which Are Not Special](./LeetCode/FindTheCountOfNumbersWhichAreNotSpecial.java)
 - ### [Count Square Submatrices with All Ones](./LeetCode/CountSquareSubmatricesWithAllOnes.java)
 - ### [Count Almost Equal Pairs I](./LeetCode/CountAlmostEqualPairsI.java)
+- ### [Sum of Subarray Minimums](./LeetCode/SumOfSubarrayMinimums.java)
 
 ---
 
