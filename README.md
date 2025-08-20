@@ -112,6 +112,7 @@
 - ### [Minimum Number of K Consecutive Bit Flips](./LeetCode/MinimumNumberOfKConsecutiveBitFlips.java)
 - ### [Number of Zero-Filled Subarrays](./LeetCode/NumberOfZeroFilledSubarrays.java)
 - ### [Find the Count of Numbers Which Are Not Special](./LeetCode/FindTheCountOfNumbersWhichAreNotSpecial.java)
+- ### [Count Square Submatrices with All Ones](./LeetCode/CountSquareSubmatricesWithAllOnes.java)
 
 ---
 
