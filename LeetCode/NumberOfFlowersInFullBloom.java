@@ -71,8 +71,7 @@ public class NumberOfFlowersInFullBloom {
     }
 
     public static void main(String[] args) {
-        int flowers[][] = {{1,6},{3,7},{9,12},{4,13}}; 
-        int people[] = {2,3,7,11};
+        int flowers[][] = {{1,6},{3,7},{9,12},{4,13}}, people[] = {2,3,7,11};
         System.out.println(Arrays.toString(fullBloomFlowers(flowers, people)));
     }
 }
