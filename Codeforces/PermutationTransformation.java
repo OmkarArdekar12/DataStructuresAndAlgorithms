@@ -1,4 +1,4 @@
-// Permutation Transformation
+// Permutation Transformation 1490-D
 
 import java.util.*;
 import java.io.*;
