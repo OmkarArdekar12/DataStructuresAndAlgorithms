@@ -124,3 +124,4 @@
 
 - ### [Permutation Transformation](./Codeforces/PermutationTransformation.java)
 - ### [Team Training](./Codeforces/TeamTraining.java)
+- ### [Parity Sort](./Codeforces/ParitySort.java)
