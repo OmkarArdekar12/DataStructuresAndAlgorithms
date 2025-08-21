@@ -1,6 +1,5 @@
 // Prepend And Append 1791-C
 
-import java.util.*;
 import java.io.*;
 
 public class PrependAndAppend {
@@ -25,4 +24,4 @@ public class PrependAndAppend {
         	System.out.println(minBinaryStringStarted(n, s));
         }
     }
-}*/
+}
