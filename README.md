@@ -126,3 +126,4 @@
 - ### [Team Training](./Codeforces/TeamTraining.java)
 - ### [Parity Sort](./Codeforces/ParitySort.java)
 - ### [Prepend And Append](./Codeforces/PrependAndAppend.java)
+- ### [Gregor And The Pawn Game](./Codeforces/GregorAndThePawnGame.java)
