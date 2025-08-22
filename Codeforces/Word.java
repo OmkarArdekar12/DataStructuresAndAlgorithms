@@ -1,3 +1,5 @@
+// Word 59-A
+
 import java.util.Scanner;
 
 public class Word {
