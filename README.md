@@ -128,3 +128,4 @@
 - ### [Prepend And Append](./Codeforces/PrependAndAppend.java)
 - ### [Gregor And The Pawn Game](./Codeforces/GregorAndThePawnGame.java)
 - ### [Array Coloring](./Codeforces/ArrayColoring.java)
+- ### [Word](./Codeforces/Word.java)
