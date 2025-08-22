@@ -1,3 +1,5 @@
+// Array Coloring 1843-A
+
 import java.util.*;
 import java.io.*;
 
