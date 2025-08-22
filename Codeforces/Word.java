@@ -26,5 +26,6 @@ public class Word {
 		}
 
 		System.out.println(res);
+		sc.close();
 	}
 }
