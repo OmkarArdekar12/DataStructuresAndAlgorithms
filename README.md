@@ -120,7 +120,7 @@
 
 <br><br>
 
-### [Codeforces](./Codeforces/)
+# [Codeforces](./Codeforces/)
 
 - ### [Permutation Transformation](./Codeforces/PermutationTransformation.java)
 - ### [Team Training](./Codeforces/TeamTraining.java)
