@@ -117,6 +117,7 @@
 - ### [Sum of Subarray Minimums](./LeetCode/SumOfSubarrayMinimums.java)
 - ### [Minimum Cost to Make Arrays Identical](./LeetCode/MinimumCostToMakeArraysIdentical.java)
 - ### [Find the Minimum Area to Cover All Ones I](./LeetCode/FindTheMinimumAreaToCoverAllOnesI.java)
+- ### [Find the Minimum Area to Cover All Ones II](./LeetCode/FindTheMinimumAreaToCoverAllOnesII.java)
 
 ---
 
