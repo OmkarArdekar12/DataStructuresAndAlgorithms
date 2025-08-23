@@ -1,5 +1,7 @@
 <h1 align="center">DSA Problem Solving</h1>
 
+---
+
 <br>
 
 # [LeetCode](./LeetCode/)
@@ -119,7 +121,7 @@
 - ### [Find the Minimum Area to Cover All Ones I](./LeetCode/FindTheMinimumAreaToCoverAllOnesI.java)
 - ### [Find the Minimum Area to Cover All Ones II](./LeetCode/FindTheMinimumAreaToCoverAllOnesII.java)
 
----
+<hr>
 
 <br><br>
 
