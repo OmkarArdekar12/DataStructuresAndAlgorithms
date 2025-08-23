@@ -1,8 +1,8 @@
 <h1 align="center">DSA Problem Solving</h1>
 
----
-
 <br>
+
+---
 
 <h1 align="center"><a href="./LeetCode/">LeetCode</a></h1>
 
@@ -123,9 +123,11 @@
 
 <hr>
 
-<br><br>
+<br>
 
-# [Codeforces](./Codeforces/)
+<hr>
+
+<h1 align="center"><a href="./Codeforces/">Codeforces</a></h1>
 
 - ### [Permutation Transformation](./Codeforces/PermutationTransformation.java)
 - ### [Team Training](./Codeforces/TeamTraining.java)
