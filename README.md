@@ -125,7 +125,7 @@
 
 <br>
 
-<hr>
+<h1></h1>
 
 <h1 align="center"><a href="./Codeforces/">Codeforces</a></h1>
 
