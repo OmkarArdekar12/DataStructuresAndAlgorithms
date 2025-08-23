@@ -116,6 +116,7 @@
 - ### [Count Almost Equal Pairs I](./LeetCode/CountAlmostEqualPairsI.java)
 - ### [Sum of Subarray Minimums](./LeetCode/SumOfSubarrayMinimums.java)
 - ### [Minimum Cost to Make Arrays Identical](./LeetCode/MinimumCostToMakeArraysIdentical.java)
+- ### [Find the Minimum Area to Cover All Ones I](./LeetCode/FindTheMinimumAreaToCoverAllOnesI.java)
 
 ---
 
