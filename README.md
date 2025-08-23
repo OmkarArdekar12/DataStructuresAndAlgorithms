@@ -4,7 +4,7 @@
 
 <br>
 
-# [LeetCode](./LeetCode/)
+<h1 align="center"><a href="./LeetCode/">LeetCode</a></h1>
 
 - ### [Merge Sorted Arrays](./LeetCode/MergeSortedArray.java)
 - ### [Remove Element](./LeetCode/RemoveElement.java)
