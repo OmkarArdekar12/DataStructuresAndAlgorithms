@@ -141,6 +141,6 @@
 - ### [Cipher Shifer](./Codeforces/CipherShifer.java)
 - ### [Race](./Codeforces/Race.java)
 - ### [Same Differences](./Codeforces/SameDifferences.java)
-- ### [Candies and Two Sisters](./Codeforces/CandiesAndTwoSisters.java)
+- ### [Candies And Two Sisters](./Codeforces/CandiesAndTwoSisters.java)
 
 <hr>
