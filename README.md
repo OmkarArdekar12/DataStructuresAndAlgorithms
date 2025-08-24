@@ -137,5 +137,6 @@
 - ### [Gregor And The Pawn Game](./Codeforces/GregorAndThePawnGame.java)
 - ### [Array Coloring](./Codeforces/ArrayColoring.java)
 - ### [Word](./Codeforces/Word.java)
+- ### [Calculating Function](./Codeforces/CalculatingFunction.java)
 
 <hr>
