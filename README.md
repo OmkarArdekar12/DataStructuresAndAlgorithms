@@ -138,5 +138,6 @@
 - ### [Array Coloring](./Codeforces/ArrayColoring.java)
 - ### [Word](./Codeforces/Word.java)
 - ### [Calculating Function](./Codeforces/CalculatingFunction.java)
+- ### [Cipher Shifer](./Codeforces/CipherShifer.java)
 
 <hr>
