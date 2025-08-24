@@ -139,5 +139,6 @@
 - ### [Word](./Codeforces/Word.java)
 - ### [Calculating Function](./Codeforces/CalculatingFunction.java)
 - ### [Cipher Shifer](./Codeforces/CipherShifer.java)
+- ### [Race](./Codeforces/Race.java)
 
 <hr>
