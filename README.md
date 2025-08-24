@@ -140,5 +140,6 @@
 - ### [Calculating Function](./Codeforces/CalculatingFunction.java)
 - ### [Cipher Shifer](./Codeforces/CipherShifer.java)
 - ### [Race](./Codeforces/Race.java)
+- ### [Same Differences](./Codeforces/SameDifferences.java)
 
 <hr>
