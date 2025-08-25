@@ -121,6 +121,7 @@
 - ### [Find the Minimum Area to Cover All Ones I](./LeetCode/FindTheMinimumAreaToCoverAllOnesI.java)
 - ### [Find the Minimum Area to Cover All Ones II](./LeetCode/FindTheMinimumAreaToCoverAllOnesII.java)
 - ### [Longest Subarray of 1's After Deleting One Element](./LeetCode/LongestSubarrayOf1sAfterDeletingOneElement.java)
+- ### [Maximum Subarray Sum with One Deletion](./LeetCode/MaximumSubarraySumWithOneDeletion.java)
 
 <hr>
 
