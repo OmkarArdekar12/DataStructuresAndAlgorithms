@@ -142,5 +142,6 @@
 - ### [Race](./Codeforces/Race.java)
 - ### [Same Differences](./Codeforces/SameDifferences.java)
 - ### [Candies And Two Sisters](./Codeforces/CandiesAndTwoSisters.java)
+- ### [Remove Two Letters](./Codeforces/RemoveTwoLetters.java)
 
 <hr>
