@@ -152,5 +152,6 @@
 - ### [Factorial Zeroes](./Codeforces/FactorialZeroes.java)
 - ### [Love Triangle](./Codeforces/LoveTriangle.java)
 - ### [Bit++](./Codeforces/BitPlusPlus.java)
+- ### [Party](./Codeforces/Party.java)
 
 <hr>
