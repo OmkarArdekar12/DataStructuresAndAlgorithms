@@ -151,5 +151,6 @@
 - ### [Domino Piling](./Codeforces/DominoPiling.java)
 - ### [Factorial Zeroes](./Codeforces/FactorialZeroes.java)
 - ### [Love Triangle](./Codeforces/LoveTriangle.java)
+- ### [Bit++](./Codeforces/BitPlusPlus.java)
 
 <hr>
