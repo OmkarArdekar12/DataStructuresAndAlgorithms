@@ -125,6 +125,7 @@
 - ### [Diagonal Traverse](./LeetCode/DiagonalTraverse.java)
 - ### [Furthest Building You Can Reach](./LeetCode/FurthestBuildingYouCanReach.java)
 - ### [Special Permutations](./LeetCode/SpecialPermutations.java)
+- ### [Double Modular Exponentiation](./LeetCode/DoubleModularExponentiation.java)
 
 <hr>
 
