@@ -124,6 +124,7 @@
 - ### [Maximum Subarray Sum with One Deletion](./LeetCode/MaximumSubarraySumWithOneDeletion.java)
 - ### [Diagonal Traverse](./LeetCode/DiagonalTraverse.java)
 - ### [Furthest Building You Can Reach](./LeetCode/FurthestBuildingYouCanReach.java)
+- ### [Special Permutations](./LeetCode/SpecialPermutations.java)
 
 <hr>
 
