@@ -153,5 +153,6 @@
 - ### [Love Triangle](./Codeforces/LoveTriangle.java)
 - ### [Bit++](./Codeforces/BitPlusPlus.java)
 - ### [Party](./Codeforces/Party.java)
+- ### [Stone Game](./Codeforces/StoneGame.java)
 
 <hr>
