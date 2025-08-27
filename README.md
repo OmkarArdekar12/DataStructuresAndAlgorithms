@@ -158,5 +158,6 @@
 - ### [Stone Game](./Codeforces/StoneGame.java)
 - ### [Destroying Bridges](./Codeforces/DestroyingBridges.java)
 - ### [Games](./Codeforces/Games.java)
+- ### [Fair Division](./Codeforces/FairDivision.java)
 
 <hr>
