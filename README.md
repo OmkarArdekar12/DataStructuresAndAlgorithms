@@ -126,6 +126,7 @@
 - ### [Furthest Building You Can Reach](./LeetCode/FurthestBuildingYouCanReach.java)
 - ### [Special Permutations](./LeetCode/SpecialPermutations.java)
 - ### [Double Modular Exponentiation](./LeetCode/DoubleModularExponentiation.java)
+- ### [Maximum Area of Longest Diagonal Rectangle](./LeetCode/MaximumAreaOfLongestDiagonalRectangle.java)
 
 <hr>
 
