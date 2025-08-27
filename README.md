@@ -156,5 +156,6 @@
 - ### [Bit++](./Codeforces/BitPlusPlus.java)
 - ### [Party](./Codeforces/Party.java)
 - ### [Stone Game](./Codeforces/StoneGame.java)
+- ### [Destroying Bridges](./Codeforces/DestroyingBridges.java)
 
 <hr>
