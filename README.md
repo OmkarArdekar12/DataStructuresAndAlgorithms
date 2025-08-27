@@ -157,5 +157,6 @@
 - ### [Party](./Codeforces/Party.java)
 - ### [Stone Game](./Codeforces/StoneGame.java)
 - ### [Destroying Bridges](./Codeforces/DestroyingBridges.java)
+- ### [Games](./Codeforces/Games.java)
 
 <hr>
