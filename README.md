@@ -161,5 +161,7 @@
 - ### [Fair Division](./Codeforces/FairDivision.java)
 - ### [Diameter of Graph](./Codeforces/DiameterOfGraph.java)
 - ### [Fall Down](./Codeforces/FallDown.java)
+- ### [Favorite Sequence](./Codeforces/FavoriteSequence.java)
+- ### [George Accommodation](./Codeforces/GeorgeAccommodation.java)
 
 <hr>
