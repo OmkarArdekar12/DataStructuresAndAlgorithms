@@ -31,5 +31,6 @@ public class DiameterOfGraph {
                 System.out.println("YES");
             }
         }
+        sc.close();
     }
 }
