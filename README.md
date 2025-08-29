@@ -163,5 +163,6 @@
 - ### [Fall Down](./Codeforces/FallDown.java)
 - ### [Favorite Sequence](./Codeforces/FavoriteSequence.java)
 - ### [George Accommodation](./Codeforces/GeorgeAccommodation.java)
+- ### [Love Song](./Codeforces/LoveSong.java)
 
 <hr>
