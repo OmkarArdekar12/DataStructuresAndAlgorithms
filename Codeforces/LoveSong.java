@@ -12,18 +12,20 @@ public class LoveSong {
         int q = Integer.parseInt(st.nextToken());
         String s = br.readLine();
 
-        long[] pref = new long[n+1];
+        long[] prefix = new long[n+1];
         for(int i=0; i<n; ++i) {
             int value = (s.charAt(i) - 'a') + 1;
-            pref[i+1] = pref[i] + value;
+            prefix[i+1] = prefix[i] + value;
         }
         
         for(int i=0; i<q; ++i) {
             st = new StringTokenizer(br.readLine());
             int l = Integer.parseInt(st.nextToken());
             int r = Integer.parseInt(st.nextToken());
-            pw.println(pref[r] - pref[l-1]);
+            pw.println(prefix[r] - prefix[l-1]);
         }
+        
+        pw.flush();
         pw.close();
         br.close();
     }
