@@ -4,6 +4,24 @@ import java.util.*;
 
 public class IsomorphicStrings {
     public static boolean isIsomorphic(String s, String t) {
+        int n = s.length();
+        Map<Character, Character> map = new HashMap<>();
+        for(int i=0; i<n; ++i) {
+            char a = s.charAt(i);
+            char b = t.charAt(i);
+            if(map.containsKey(a)) {
+                if(map.get(a) != b) {
+                    return false;
+                }
+            } else {
+                if(map.containsValue(b)) {
+                    return false;
+                }
+            }
+            map.put(a, b);
+        }
+        return true;
+        
         // int n = s.length();
         // Map<Character, Character> map1 = new HashMap<>();
         // Map<Character, Character> map2 = new HashMap<>();
@@ -23,25 +41,8 @@ public class IsomorphicStrings {
         //     }
         // }
         // return true;
-        int n = s.length();
-        Map<Character, Character> map = new HashMap<>();
-        for(int i=0; i<n; ++i) {
-            char a = s.charAt(i);
-            char b = t.charAt(i);
-            if(map.containsKey(a)) {
-                if(map.get(a) != b) {
-                    return false;
-                }
-            } else {
-                if(map.containsValue(b)) {
-                    return false;
-                }
-            }
-            map.put(a, b);
-        }
-        return true;
     }
-
+    
     public static void main(String[] args) {
         System.out.println(isIsomorphic("egg", "add"));
     }
