@@ -4,24 +4,6 @@ import java.util.Arrays;
 
 public class FindThePowerOfKSizeSubarraysI {
     public static int[] resultsArray(int[] nums, int k) {
-        // int n = nums.length;
-        // int results[] = new int[n - k + 1];
-
-        // int idx = 0;
-        // boolean maxValue = true;
-        // for(int i=0, j=k-1; j<n; ++i, ++j) {
-        //     maxValue = true;
-        //     for(int x=i; x<j; ++x) {
-        //         if(nums[x]+1 != nums[x+1]) {
-        //             maxValue = false;
-        //             break;
-        //         }
-        //     }
-        //     results[idx++] = maxValue ? nums[j] : -1;
-        // }
-
-        // return results;
-
         int n = nums.length;
         int res[] = new int[n - k + 1];
         
@@ -44,6 +26,22 @@ public class FindThePowerOfKSizeSubarraysI {
         }
 
         return res;
+
+        // int n = nums.length;
+        // int results[] = new int[n - k + 1];
+        // int idx = 0;
+        // boolean maxValue = true;
+        // for(int i=0, j=k-1; j<n; ++i, ++j) {
+        //     maxValue = true;
+        //     for(int x=i; x<j; ++x) {
+        //         if(nums[x]+1 != nums[x+1]) {
+        //             maxValue = false;
+        //             break;
+        //         }
+        //     }
+        //     results[idx++] = maxValue ? nums[j] : -1;
+        // }
+        // return results;
     }
 
     public static void main(String[] args) {
