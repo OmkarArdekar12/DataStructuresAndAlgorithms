@@ -3,7 +3,19 @@
 import java.util.Arrays;
 
 public class FinalArrayStateAfterKMultiplicationOperationsI {
-    public static int[] getFinalState(int[] nums, int k, int multiplier) {
+    public static int[] getFinalState(int[] nums, int k, int multiplier) {        
+        int n = nums.length;
+        for(int i=0; i<k; ++i) {
+            int minIdx = 0;
+            for(int j=0; j<n; ++j) {
+                if(nums[j] < nums[minIdx]) {
+                    minIdx = j;
+                }
+            }
+            nums[minIdx] *= multiplier;
+        }
+        return nums;
+
         // int n = nums.length;
         // PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> (a[1] != b[1] ? a[1] - b[1] : a[0] - b[0]));
         // for(int i=0; i<n; ++i) {
@@ -20,18 +32,6 @@ public class FinalArrayStateAfterKMultiplicationOperationsI {
         //     nums[curr[0]] = curr[1];
         // }
         // return nums;
-        
-        int n = nums.length;
-        for(int i=0; i<k; ++i) {
-            int minIdx = 0;
-            for(int j=0; j<n; ++j) {
-                if(nums[j] < nums[minIdx]) {
-                    minIdx = j;
-                }
-            }
-            nums[minIdx] *= multiplier;
-        }
-        return nums;
     }
 
     public static void main(String[] args) {
