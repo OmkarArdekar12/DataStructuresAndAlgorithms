@@ -1,5 +1,7 @@
 // Maximum Average Pass Ratio
 
+import java.util.*;
+
 public class MaximumAveragePassRatio {
     // static class Info {
     //     int pass;
@@ -27,7 +29,6 @@ public class MaximumAveragePassRatio {
         for(int i=0; i<extraStudents; ++i) {
             double curr[] = pq.remove();
             double pass = curr[0], total = curr[1];
-            double gain = curr[2];
 
             double newPass = pass + 1, newTotal = total + 1;
             double newGain = ((newPass + 1) / (newTotal + 1)) - (newPass / newTotal);
