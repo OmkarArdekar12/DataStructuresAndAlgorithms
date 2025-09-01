@@ -166,5 +166,6 @@
 - ### [George Accommodation](./Codeforces/GeorgeAccommodation.java)
 - ### [Love Song](./Codeforces/LoveSong.java)
 - ### [Reposts](./Codeforces/Reposts.java)
+- ### [Computer Game](./Codeforces/ComputerGame.java)
 
 <hr>
