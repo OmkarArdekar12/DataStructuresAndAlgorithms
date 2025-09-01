@@ -128,6 +128,7 @@
 - ### [Double Modular Exponentiation](./LeetCode/DoubleModularExponentiation.java)
 - ### [Maximum Area of Longest Diagonal Rectangle](./LeetCode/MaximumAreaOfLongestDiagonalRectangle.java)
 - ### [Length of Longest V-Shaped Diagonal Segment](./LeetCode/LengthOfLongestVShapedDiagonalSegment.java)
+- ### [Maximum Average Pass Ratio](./LeetCode/MaximumAveragePassRatio.java)
 
 <hr>
 
