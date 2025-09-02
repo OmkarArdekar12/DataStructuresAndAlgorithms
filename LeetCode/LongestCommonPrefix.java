@@ -4,6 +4,25 @@
 
 public class LongestCommonPrefix {
     public static String longestCommonPrefix(String[] strs) {
+        int n = strs.length;
+        StringBuilder prefix = new StringBuilder("");
+        for(int i=0; i<n; ++i) {
+            if(i == 0) {
+                prefix.append(strs[i]);
+                continue;
+            }
+
+            while(!strs[i].startsWith(prefix.toString()) && !prefix.isEmpty()) {
+                prefix.deleteCharAt(prefix.length() - 1);
+            }
+            
+            if(prefix.isEmpty()) {
+                break;
+            }
+        }
+        String longestCommonPrefix = prefix.toString();
+        return longestCommonPrefix;
+        
         // int n = strs.length;
         // Arrays.sort(strs);
         // StringBuilder result = new StringBuilder("");
@@ -17,26 +36,8 @@ public class LongestCommonPrefix {
         //     result.append(si.charAt(i));
         // }
         // return result.toString();
-        int n = strs.length;
-        StringBuilder prefix = new StringBuilder("");
-        for(int i=0; i<n; ++i) {
-            if(i == 0) {
-                prefix.append(strs[i]);
-                continue;
-            }
-
-            while(!strs[i].startsWith(prefix.toString()) && !prefix.isEmpty()) {
-                prefix.deleteCharAt(prefix.length() - 1);
-            }
-
-            if(prefix.isEmpty()) {
-                break;
-            }
-        }
-        String longestCommonPrefix = prefix.toString();
-        return longestCommonPrefix;
     }
-
+    
     public static void main(String[] args) {
         String strs[] = {"flower","flow","flight"};
         System.out.println(longestCommonPrefix(strs));
