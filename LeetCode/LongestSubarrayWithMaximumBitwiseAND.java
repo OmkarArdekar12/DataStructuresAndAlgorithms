@@ -9,6 +9,24 @@
 public class LongestSubarrayWithMaximumBitwiseAND {
     //The Bitwise AND of two different numbers will always be strictly less than the maximum of those two numbers
     public static int longestSubarray(int[] nums) {
+        int n = nums.length;
+        int maxBitwiseAnd = 0;
+        for(int i=0; i<n; ++i) {
+            maxBitwiseAnd = Math.max(maxBitwiseAnd, nums[i]);
+        } 
+        
+        int res = 0, curr = 0;
+        for(int i=0; i<n; ++i) {
+            if(nums[i] == maxBitwiseAnd) {
+                ++curr;
+            } else {
+                curr = 0;
+            }
+            res = Math.max(res, curr);
+        }       
+        
+        return res;
+
         // int n = nums.length;
         // int longestSubarrayLength = 0; //longest subarray lengthe with maximum bitwise AND
         // int maxVal = Integer.MIN_VALUE, currSubarrayLength = 0;
@@ -26,24 +44,6 @@ public class LongestSubarrayWithMaximumBitwiseAND {
         //     longestSubarrayLength = Math.max(longestSubarrayLength, currSubarrayLength);
         // }
         // return longestSubarrayLength;
-        
-        int n = nums.length;
-        int maxBitwiseAnd = 0;
-        for(int i=0; i<n; ++i) {
-            maxBitwiseAnd = Math.max(maxBitwiseAnd, nums[i]);
-        } 
-
-        int res = 0, curr = 0;
-        for(int i=0; i<n; ++i) {
-            if(nums[i] == maxBitwiseAnd) {
-                ++curr;
-            } else {
-                curr = 0;
-            }
-            res = Math.max(res, curr);
-        }       
-
-        return res;
     }
 
     public static void main(String[] args) {
