@@ -6,34 +6,6 @@ import java.util.*;
 
 public class NumberOfFlowersInFullBloom {
     public static int[] fullBloomFlowers(int[][] flowers, int[] people) {
-        // int n = people.length;
-        // int m = flowers.length;
-        // PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(a[1], b[1]));
-        // for(int i=0; i<n; ++i) {
-        //     pq.add(new int[]{i, people[i]});
-        // }
-
-        // int res[] = new int[n];
-        // Arrays.sort(flowers, (a, b) -> Arrays.compare(a, b));
-        // PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-        // int i = 0;
-        // while(!pq.isEmpty()) {
-        //     int curr[] = pq.remove();
-        //     int idx = curr[0], personTime = curr[1];
-
-        //     while(i < m && flowers[i][0] <= personTime) { //add flowers that are blooming
-        //         minHeap.add(flowers[i][1]);
-        //         ++i;
-        //     }
-        //     while(!minHeap.isEmpty() && minHeap.peek() < personTime) { //removing flowers that are not blooming
-        //         minHeap.remove();
-        //     }
-
-        //     res[idx] = minHeap.size();
-        // }
-
-        // return res;
-
         int n = people.length;
         TreeMap<Integer, Integer> map = new TreeMap<>();
         map.put(0, 0);
@@ -68,6 +40,34 @@ public class NumberOfFlowersInFullBloom {
         }
         
         return answer;
+
+        // int n = people.length;
+        // int m = flowers.length;
+        // PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(a[1], b[1]));
+        // for(int i=0; i<n; ++i) {
+        //     pq.add(new int[]{i, people[i]});
+        // }
+
+        // int res[] = new int[n];
+        // Arrays.sort(flowers, (a, b) -> Arrays.compare(a, b));
+        // PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+        // int i = 0;
+        // while(!pq.isEmpty()) {
+        //     int curr[] = pq.remove();
+        //     int idx = curr[0], personTime = curr[1];
+
+        //     while(i < m && flowers[i][0] <= personTime) { //add flowers that are blooming
+        //         minHeap.add(flowers[i][1]);
+        //         ++i;
+        //     }
+        //     while(!minHeap.isEmpty() && minHeap.peek() < personTime) { //removing flowers that are not blooming
+        //         minHeap.remove();
+        //     }
+
+        //     res[idx] = minHeap.size();
+        // }
+
+        // return res;
     }
 
     public static void main(String[] args) {
