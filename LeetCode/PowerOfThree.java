@@ -2,6 +2,8 @@
 
 public class PowerOfThree {
     public static boolean isPowerOfThree(int n) {
+        return (n > 0 && 1162261467 % n == 0);
+        
         // if(n <= 0) {
         //     return false;
         // }
@@ -17,7 +19,6 @@ public class PowerOfThree {
         // return (Math.log10(n) / Math.log10(3)) % 1 == 0;
 
         //3^19 = 1162261467, 3^20 exceeds the integer range, So, 3^19, is highest power in integer range
-        return (n > 0 && 1162261467 % n == 0);
     }
 
     public static void main(String[] args) {
