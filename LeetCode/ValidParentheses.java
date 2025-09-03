@@ -2,6 +2,27 @@
 
 public class ValidParentheses {
     public static boolean isValid(String s) {
+        int n = s.length();
+        if(n % 2 != 0) {
+            return false;
+        }
+        char stack[] = new char[n];
+        int top = -1;
+        for(int i=0; i<n; ++i) {
+            char ch = s.charAt(i);
+            if(ch == '(' || ch == '[' || ch == '{') {
+                stack[++top] = ch;
+            } else {
+                char complement = ch == ')' ? '(' : ch == ']' ? '[' : '{';
+                if(top == -1 || stack[top] != complement) {
+                    return false;
+                } else {
+                    --top;
+                }
+            }
+        }
+        return top == -1;
+
         // int n = s.length();
         // Stack<Character> stack = new Stack<>();
         // for(int i=0; i<n; ++i) {
@@ -53,27 +74,6 @@ public class ValidParentheses {
         //     }
         // }
         // return top == -1;
-
-        int n = s.length();
-        if(n % 2 != 0) {
-            return false;
-        }
-        char stack[] = new char[n];
-        int top = -1;
-        for(int i=0; i<n; ++i) {
-            char ch = s.charAt(i);
-            if(ch == '(' || ch == '[' || ch == '{') {
-                stack[++top] = ch;
-            } else {
-                char complement = ch == ')' ? '(' : ch == ']' ? '[' : '{';
-                if(top == -1 || stack[top] != complement) {
-                    return false;
-                } else {
-                    --top;
-                }
-            }
-        }
-        return top == -1;
     }
     public static void main(String[] args) {
         String s = "([])";
