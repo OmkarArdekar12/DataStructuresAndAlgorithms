@@ -3,6 +3,25 @@
 
 public class TrappingRainWater {
     public static int trap(int[] height) {
+        int n = height.length;
+        
+        int trapRainwater = 0;
+        int left = 0, right = n - 1;
+        int leftMax = height[left], rightMax = height[right];
+        while(left < right) {
+            if(leftMax < rightMax) {
+                ++left;
+                leftMax = Math.max(leftMax, height[left]);
+                trapRainwater += leftMax - height[left];
+            } else {
+                --right;
+                rightMax = Math.max(rightMax, height[right]);
+                trapRainwater += rightMax - height[right];
+            }
+        }
+        
+        return trapRainwater;
+        
         // int n = height.length;
         // int rightMax[] = new int[n];
         // int leftMax[] = new int[n];
@@ -22,24 +41,6 @@ public class TrappingRainWater {
         //     trapRainwater += (currWaterLevel - barHeight) * barWidth;
         // }
         // return trapRainwater;
-        int n = height.length;
-
-        int trapRainwater = 0;
-        int left = 0, right = n - 1;
-        int leftMax = height[left], rightMax = height[right];
-        while(left < right) {
-            if(leftMax < rightMax) {
-                ++left;
-                leftMax = Math.max(leftMax, height[left]);
-                trapRainwater += leftMax - height[left];
-            } else {
-                --right;
-                rightMax = Math.max(rightMax, height[right]);
-                trapRainwater += rightMax - height[right];
-            }
-        }
-
-        return trapRainwater;
     }
 
     public static void main(String[] args) {
