@@ -1,6 +1,14 @@
 // Reordered Power of 2
 
 public class ReorderedPowerOf2 {
+    static long getPowerOfTwoNumberSorted(int val) {
+        long res = 0;
+        while(val > 0) {
+            res += (int)(Math.pow(10, val % 10));
+            val /= 10;
+        }
+        return res;
+    }
     // static String getPowerOfTwoNumberStringSorted(int val) {
     //     // char curr[] = Integer.toString(val).toCharArray();
     //     char curr[] = String.valueOf(val).toCharArray();
@@ -17,14 +25,6 @@ public class ReorderedPowerOf2 {
 
     //     return false;
     // }
-    static long getPowerOfTwoNumberSorted(int val) {
-        long res = 0;
-        while(val > 0) {
-            res += (int)(Math.pow(10, val % 10));
-            val /= 10;
-        }
-        return res;
-    }
     public static boolean reorderedPowerOf2(int n) {
         long number = getPowerOfTwoNumberSorted(n);
         for(int i=0; i<32; ++i) {
