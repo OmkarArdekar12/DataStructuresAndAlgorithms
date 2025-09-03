@@ -167,5 +167,6 @@
 - ### [Love Song](./Codeforces/LoveSong.java)
 - ### [Reposts](./Codeforces/Reposts.java)
 - ### [Computer Game](./Codeforces/ComputerGame.java)
+- ### [Restoring Three Numbers](./Codeforces/RestoringThreeNumbers.java)
 
 <hr>
