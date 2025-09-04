@@ -129,6 +129,7 @@
 - ### [Maximum Area of Longest Diagonal Rectangle](./LeetCode/MaximumAreaOfLongestDiagonalRectangle.java)
 - ### [Length of Longest V-Shaped Diagonal Segment](./LeetCode/LengthOfLongestVShapedDiagonalSegment.java)
 - ### [Maximum Average Pass Ratio](./LeetCode/MaximumAveragePassRatio.java)
+- ### [Sort Matrix by Diagonals](./LeetCode/SortMatrixByDiagonals.java)
 
 <hr>
 
