@@ -24,5 +24,6 @@ public class QAQ {
         }
 
         System.out.println(count);
+        sc.close();
     }
 }
