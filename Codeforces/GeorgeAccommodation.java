@@ -18,5 +18,6 @@ public class GeorgeAccommodation {
         	}
         }
         System.out.println(res);
+        br.close();
     }
 }
