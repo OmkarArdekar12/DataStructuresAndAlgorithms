@@ -14,6 +14,7 @@ public class MaximumAveragePassRatio {
     //         this.gain = g;
     //     }
     // }
+    
     public double maxAverageRatio(int[][] classes, int extraStudents) {
         int n = classes.length;
 
