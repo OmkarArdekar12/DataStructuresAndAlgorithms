@@ -171,5 +171,6 @@
 - ### [Restoring Three Numbers](./Codeforces/RestoringThreeNumbers.java)
 - ### [Fox and Snake](./Codeforces/FoxAndSnake.java)
 - ### [Pangram](./Codeforces/Pangram.java)
+- ### [QAQ](./Codeforces/QAQ.java)
 
 <hr>
