@@ -18,5 +18,6 @@ public class Pangram {
         }
         boolean isPangram = Arrays.stream(freq).sum() == 26;
         System.out.println(isPangram ? "YES" : "NO");
+        br.close();
     }
 }
