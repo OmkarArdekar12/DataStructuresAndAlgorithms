@@ -174,5 +174,6 @@
 - ### [QAQ](./Codeforces/QAQ.java)
 - ### [Gift Carpet](./Codeforces/GiftCarpet.java)
 - ### [Sum of Round Numbers](./Codeforces/SumOfRoundNumbers.java)
+- ### [Stone on the Table](./Codeforces/StoneOnTheTable.java)
 
 <hr>
