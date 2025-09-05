@@ -172,5 +172,6 @@
 - ### [Fox and Snake](./Codeforces/FoxAndSnake.java)
 - ### [Pangram](./Codeforces/Pangram.java)
 - ### [QAQ](./Codeforces/QAQ.java)
+- ### [Gift Carpet](./Codeforces/GiftCarpet.java)
 
 <hr>
