@@ -175,5 +175,6 @@
 - ### [Gift Carpet](./Codeforces/GiftCarpet.java)
 - ### [Sum of Round Numbers](./Codeforces/SumOfRoundNumbers.java)
 - ### [Stone on the Table](./Codeforces/StoneOnTheTable.java)
+- ### [Soft Drinking](./Codeforces/SoftDrinking.java)
 
 <hr>
