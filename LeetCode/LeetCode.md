@@ -1,4 +1,4 @@
-<h1 align="center">LeetCode</h1>
+# <h1 align="center">LeetCode</h1>
 
 - ## [Merge Sorted Arrays](./LeetCode/MergeSortedArray.java)
 - ## [Remove Element](./LeetCode/RemoveElement.java)
