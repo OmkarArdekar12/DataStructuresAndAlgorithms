@@ -137,7 +137,7 @@
 
 <h1></h1>
 
-<h1 align="center"><a href="./Codeforces/">Codeforces</a></h1>
+<h1 align="center"><a href="./Codeforces/Codeforces.md">Codeforces</a></h1>
 
 - ### [Permutation Transformation](./Codeforces/PermutationTransformation.java)
 - ### [Team Training](./Codeforces/TeamTraining.java)
