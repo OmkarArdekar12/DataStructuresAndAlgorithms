@@ -178,5 +178,6 @@
 - ### [Stone on the Table](./Codeforces/StoneOnTheTable.java)
 - ### [Seating in a Bus](./Codeforces/SeatingInABus.java)
 - ### [Presents](./Codeforces/Presents.java)
+- ### [1D Eraser](./Codeforces/OneDEraser.java)
 
 <hr>

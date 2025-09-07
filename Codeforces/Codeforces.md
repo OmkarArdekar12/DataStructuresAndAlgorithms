@@ -39,5 +39,6 @@
 - ## [Stone on the Table](./StoneOnTheTable.java)
 - ## [Seating in a Bus](./SeatingInABus.java)
 - ## [Presents](./Presents.java)
+- ## [1D Eraser](./OneDEraser.java)
 
 <hr>
