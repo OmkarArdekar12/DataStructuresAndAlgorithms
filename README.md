@@ -6,130 +6,253 @@
 
 <h1 align="center"><a href="./LeetCode/LeetCode.md">LeetCode</a></h1>
 
-- # [Merge Sorted Arrays](./LeetCode/MergeSortedArray.java)
-- # [Remove Element](./LeetCode/RemoveElement.java)
-- # [Remove Duplicates from Sorted Array](./LeetCode/RemoveDuplicatesFromSortedArray.java)
-- # [Remove Duplicates from Sorted Array II](./LeetCode/RemoveDuplicatesFromSortedArrayII.java)
-- # [Majority Element](./LeetCode/MajorityElement.java)
-- # [Rotate Array](./LeetCode/RotateArray.java)
-- # [Best Time to Buy and Sell Stock](./LeetCode/BestTimeToBuyAndSellStock.java)
-- # [Best Time to Buy and Sell Stock II](./LeetCode/BestTimeToBuyAndSellStockII.java)
-- # [Jump Game](./LeetCode/JumpGame.java)
-- # [Jump Game II](./LeetCode/JumpGameII.java)
-- # [H-Index](./LeetCode/HIndex.java)
-- # [Insert Delete GetRandom O(1)](./LeetCode/InsertDeleteGetRandomInConstantTime.java)
-- # [Product of Array Except Self](./LeetCode/ProductOfArrayExceptSelf.java)
-- # [Gas Station](./LeetCode/GasStation.java)
-- # [Candy](./LeetCode/Candy.java)
-- # [Trapping Rain Water](./LeetCode/TrappingRainWater.java)
-- # [Roman to Integer](./LeetCode/RomanToInteger.java)
-- # [Integer to Roman](./LeetCode/IntegerToRoman.java)
-- # [Length of Last Word](./LeetCode/LengthOfLastWord.java)
-- # [Longest Common Prefix](./LeetCode/LongestCommonPrefix.java)
-- # [Reverse Words in a String](./LeetCode/ReverseWordsInAString.java)
-- # [Zigzag Conversion](./LeetCode/ZigzagConversion.java)
-- # [Find the Index of the First Occurrence in a String](./LeetCode/FindTheIndexOfTheFirstOccurrenceInAString.java)
-- # [Text Justification](./LeetCode/TextJustification.java)
-- # [Valid Palindrome](./LeetCode/ValidPalindrome.java)
-- # [Is Subsequence](./LeetCode/IsSubsequence.java)
-- # [Two Sum II - Input Array Is Sorted](./LeetCode/TwoSumIIInputArrayIsSorted.java)
-- # [Container With Most Water](./LeetCode/ContainerWithMostWater.java)
-- # [3Sum](./LeetCode/ThreeSum.java)
-- # [Minimum Size Subarray Sum](./LeetCode/MinimumSizeSubarraySum.java)
-- # [Longest Substring Without Repeating Characters](./LeetCode/LongestSubstringWithoutRepeatingCharacters.java)
-- # [Substring with Concatenation of All Words](./LeetCode/SubstringWithConcatenationOfAllWords.java)
-- # [Minimum Window Substring](./LeetCode/MinimumWindowSubstring.java)
-- # [Valid Sudoku](./LeetCode/ValidSudoku.java)
-- # [Spiral Matrix](./LeetCode/SpiralMatrix.java)
-- # [Rotate Image](./LeetCode/RotateImage.java)
-- # [Set Matrix Zeroes](./LeetCode/SetMatrixZeroes.java)
-- # [Game of Life](./LeetCode/GameOfLife.java)
-- # [Ransom Note](./LeetCode/RansomNote.java)
-- # [Isomorphic Strings](./LeetCode/IsomorphicStrings.java)
-- # [Word Pattern](./LeetCode/WordPattern.java)
-- # [Valid Anagram](./LeetCode/ValidAnagram.java)
-- # [Group Anagrams](./LeetCode/GroupAnagrams.java)
-- # [Two Sum](./LeetCode/TwoSum.java)
-- # [Happy Number](./LeetCode/HappyNumber.java)
-- # [Contains Duplicate II](./LeetCode/ContainsDuplicateII.java)
-- # [Longest Consecutive Sequence](./LeetCode/LongestConsecutiveSequence.java)
-- # [Summary Ranges](./LeetCode/SummaryRanges.java)
-- # [Merge Intervals](./LeetCode/MergeIntervals.java)
-- # [Insert Interval](./LeetCode/InsertInterval.java)
-- # [Minimum Number of Arrows to Burst Balloons](./LeetCode/MinimumNumberOfArrowsToBurstBalloons.java)
-- # [Valid Parentheses](./LeetCode/ValidParentheses.java)
-- # [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
-- # [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
-- # [Find the Longest Valid Obstacle Course at Each Position](./LeetCode/FindTheLongestValidObstacleCourseAtEachPosition.java)
-- # [Minimum Insertion Steps to Make a String Palindrome](./LeetCode/MinimumInsertionStepsToMakeAStringPalindrome.java)
-- # [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
-- # [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
-- # [Minimum Score After Removals on a Tree](./LeetCode/MinimumScoreAfterRemovalsOnATree.java)
-- # [Minimum Number of Operations to Make Array Continuous](./LeetCode/MinimumNumberOfOperationToMakeArrayContinuous.java)
-- # [Maximum Unique Subarray Sun After Deletion](./LeetCode/MaximumUniquiSubarraySumAfterDeletion.java)
-- # [Find All People With Secret](./LeetCode/FindAllPeopleWithSecret.java)
-- # [Number of Flowers in Full Bloom](./LeetCode/NumberOfFlowersInFullBloom.java)
-- # [Replace Non-Coprime Numbers in Array](./LeetCode/ReplaceNonCoprimeNumbersinArray.java)
-- # [Contains Duplicate I](./LeetCode/ContainsDuplicateI.java)
-- # [Contains Duplicate II](./LeetCode/ContainsDuplicateII.java)
-- # [Contains Duplicate III](./LeetCode/ContainsDuplicateIII.java)
-- # [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
-- # [Meeting Rooms II](./LeetCode/MeetingRoomsII.java)
-- # [Meeting Rooms III](./LeetCode/MeetingRoomsIII.java)
-- # [Design a Text Editor](./LeetCode/DesignATextEditor.java)
-- # [Design Skiplist](./LeetCode/DesignSkiplist.java)
-- # [Russian Doll Envelopes](./LeetCode/RussianDollEnvelopes.java)
-- # [Final Array State After K Multiplication Operations I](./LeetCode/FinalArrayStateAfterKMultiplicationOperationsI.java)
-- # [Final Array State After K Multiplication Operations II](./LeetCode/FinalArrayStateArrayAfterKMultiplicationOperationsII.java)
-- # [Longest Increasing Path in a Matrix](./LeetCode/LongestIncreasingPathInAMatrix.java)
-- # [Longest Subarray With Maximum Bitwise AND](./LeetCode/LongestSubarrayWithMaximumBitwiseAND.java)
-- # [Maximum Value Sum by Placing Three Rooks I](./LeetCode/MaximumValueSumByPlacingThreeRooksI.java)
-- # [Maximum Value Sum by Placing Three Rooks II](./LeetCode/MaximumValueSumByPlacingThreeRooksII.java)
-- # [Minimum Pair Removal to Sort Array I](./LeetCode/MinimumPairRemovalToSortArrayI.java)
-- # [Minimum Pair Removal to Sort Array II](./LeetCode/MinimumPairRemovalToSortArrayII.java)
-- # [Pascal's Triangle](./LeetCode/PascalsTriangle.java)
-- # [Rearranging Fruits](./LeetCode/RearrangingFruits.java)
-- # [Sliding Window Median](./LeetCode/SlidingWindowMedian.java)
-- # [Smallest Palindromic Rearrangement I](./LeetCode/SmallestPalindromicRearrangementI.java)
-- # [Smallest Palindromic Rearrangement II](./LeetCode/SmallestPalindromicRearrangementII.java)
-- # [Smallest Subarrays With Maximum Bitwise OR](./LeetCode/SmallestSubarraysWithMaximumBitwiseOR.java)
-- # [Maximum Fruits Harvested After at Most K Steps](./LeetCode/MaximumFruitsHarvestedAfterAtMostKSteps.java)
-- # [Fruit Into Baskets](./LeetCode/FruitIntoBaskets.java)
-- # [Fruits Into Baskets II](./LeetCode/FruitsIntoBasketsII.java)
-- # [Fruits Into Baskets III](./LeetCode/FruitsIntoBasketsIII.java)
-- # [Power of Two](./LeetCode/PowerOfTwo.java)
-- # [Power of Three](./LeetCode/PowerOfThree.java)
-- # [Power of Four](./LeetCode/PowerOfFour.java)
-- # [Reordered Power of 2](./LeetCode/ReorderedPowerOf2.java)
-- # [Range Product Queries of Powers](./LeetCode/RangeProductQueriesOfPowers.java)
-- # [Maximum Good Subarray Sum](./LeetCode/MaximumGoodSubarrySum.java)
-- # [Max Value of Equation](./LeetCode/MaxValueOfEquation.java)
-- # [Constrained Subsequence Sum](./LeetCode/ConstrainedSubsequenceSum.java)
-- # [Count Substrings That Can Be Rearranged to Contain a String I](./LeetCode/CountSubstringsThatCanBeRearrangedToContainAStringI.java)
-- # [Count Substrings That Can Be Rearranged to Contain a String II](./LeetCode/CountSubstringsThatCanBeRearrangedToContainAStringII.java)
-- # [Find the Power of K-Size Subarrays I](./LeetCode/FindThePowerOfKSizeSubarraysI.java)
-- # [Find the Power of K-Size Subarrays II](./LeetCode/FindThePowerOfKSizeSubarraysII.java)
-- # [24 Game](./LeetCode/TwentyFourGame.java)
-- # [Maximum Length of Subarray With Positive Product](./LeetCode/MaximumLengthOfSubarrayWithPositiveProduct.java)
-- # [Minimum Number of K Consecutive Bit Flips](./LeetCode/MinimumNumberOfKConsecutiveBitFlips.java)
-- # [Number of Zero-Filled Subarrays](./LeetCode/NumberOfZeroFilledSubarrays.java)
-- # [Find the Count of Numbers Which Are Not Special](./LeetCode/FindTheCountOfNumbersWhichAreNotSpecial.java)
-- # [Count Square Submatrices with All Ones](./LeetCode/CountSquareSubmatricesWithAllOnes.java)
-- # [Count Almost Equal Pairs I](./LeetCode/CountAlmostEqualPairsI.java)
-- # [Sum of Subarray Minimums](./LeetCode/SumOfSubarrayMinimums.java)
-- # [Minimum Cost to Make Arrays Identical](./LeetCode/MinimumCostToMakeArraysIdentical.java)
-- # [Find the Minimum Area to Cover All Ones I](./LeetCode/FindTheMinimumAreaToCoverAllOnesI.java)
-- # [Find the Minimum Area to Cover All Ones II](./LeetCode/FindTheMinimumAreaToCoverAllOnesII.java)
-- # [Longest Subarray of 1's After Deleting One Element](./LeetCode/LongestSubarrayOf1sAfterDeletingOneElement.java)
-- # [Maximum Subarray Sum with One Deletion](./LeetCode/MaximumSubarraySumWithOneDeletion.java)
-- # [Diagonal Traverse](./LeetCode/DiagonalTraverse.java)
-- # [Furthest Building You Can Reach](./LeetCode/FurthestBuildingYouCanReach.java)
-- # [Special Permutations](./LeetCode/SpecialPermutations.java)
-- # [Double Modular Exponentiation](./LeetCode/DoubleModularExponentiation.java)
-- # [Maximum Area of Longest Diagonal Rectangle](./LeetCode/MaximumAreaOfLongestDiagonalRectangle.java)
-- # [Length of Longest V-Shaped Diagonal Segment](./LeetCode/LengthOfLongestVShapedDiagonalSegment.java)
-- # [Maximum Average Pass Ratio](./LeetCode/MaximumAveragePassRatio.java)
-- # [Sort Matrix by Diagonals](./LeetCode/SortMatrixByDiagonals.java)
+# [Merge Sorted Arrays](./LeetCode/MergeSortedArray.java)
+
+# [Remove Element](./LeetCode/RemoveElement.java)
+
+# [Remove Duplicates from Sorted Array](./LeetCode/RemoveDuplicatesFromSortedArray.java)
+
+# [Remove Duplicates from Sorted Array II](./LeetCode/RemoveDuplicatesFromSortedArrayII.java)
+
+# [Majority Element](./LeetCode/MajorityElement.java)
+
+# [Rotate Array](./LeetCode/RotateArray.java)
+
+# [Best Time to Buy and Sell Stock](./LeetCode/BestTimeToBuyAndSellStock.java)
+
+# [Best Time to Buy and Sell Stock II](./LeetCode/BestTimeToBuyAndSellStockII.java)
+
+# [Jump Game](./LeetCode/JumpGame.java)
+
+# [Jump Game II](./LeetCode/JumpGameII.java)
+
+# [H-Index](./LeetCode/HIndex.java)
+
+# [Insert Delete GetRandom O(1)](./LeetCode/InsertDeleteGetRandomInConstantTime.java)
+
+# [Product of Array Except Self](./LeetCode/ProductOfArrayExceptSelf.java)
+
+# [Gas Station](./LeetCode/GasStation.java)
+
+# [Candy](./LeetCode/Candy.java)
+
+# [Trapping Rain Water](./LeetCode/TrappingRainWater.java)
+
+# [Roman to Integer](./LeetCode/RomanToInteger.java)
+
+# [Integer to Roman](./LeetCode/IntegerToRoman.java)
+
+# [Length of Last Word](./LeetCode/LengthOfLastWord.java)
+
+# [Longest Common Prefix](./LeetCode/LongestCommonPrefix.java)
+
+# [Reverse Words in a String](./LeetCode/ReverseWordsInAString.java)
+
+# [Zigzag Conversion](./LeetCode/ZigzagConversion.java)
+
+# [Find the Index of the First Occurrence in a String](./LeetCode/FindTheIndexOfTheFirstOccurrenceInAString.java)
+
+# [Text Justification](./LeetCode/TextJustification.java)
+
+# [Valid Palindrome](./LeetCode/ValidPalindrome.java)
+
+# [Is Subsequence](./LeetCode/IsSubsequence.java)
+
+# [Two Sum II - Input Array Is Sorted](./LeetCode/TwoSumIIInputArrayIsSorted.java)
+
+# [Container With Most Water](./LeetCode/ContainerWithMostWater.java)
+
+# [3Sum](./LeetCode/ThreeSum.java)
+
+# [Minimum Size Subarray Sum](./LeetCode/MinimumSizeSubarraySum.java)
+
+# [Longest Substring Without Repeating Characters](./LeetCode/LongestSubstringWithoutRepeatingCharacters.java)
+
+# [Substring with Concatenation of All Words](./LeetCode/SubstringWithConcatenationOfAllWords.java)
+
+# [Minimum Window Substring](./LeetCode/MinimumWindowSubstring.java)
+
+# [Valid Sudoku](./LeetCode/ValidSudoku.java)
+
+# [Spiral Matrix](./LeetCode/SpiralMatrix.java)
+
+# [Rotate Image](./LeetCode/RotateImage.java)
+
+# [Set Matrix Zeroes](./LeetCode/SetMatrixZeroes.java)
+
+# [Game of Life](./LeetCode/GameOfLife.java)
+
+# [Ransom Note](./LeetCode/RansomNote.java)
+
+# [Isomorphic Strings](./LeetCode/IsomorphicStrings.java)
+
+# [Word Pattern](./LeetCode/WordPattern.java)
+
+# [Valid Anagram](./LeetCode/ValidAnagram.java)
+
+# [Group Anagrams](./LeetCode/GroupAnagrams.java)
+
+# [Two Sum](./LeetCode/TwoSum.java)
+
+# [Happy Number](./LeetCode/HappyNumber.java)
+
+# [Contains Duplicate II](./LeetCode/ContainsDuplicateII.java)
+
+# [Longest Consecutive Sequence](./LeetCode/LongestConsecutiveSequence.java)
+
+# [Summary Ranges](./LeetCode/SummaryRanges.java)
+
+# [Merge Intervals](./LeetCode/MergeIntervals.java)
+
+# [Insert Interval](./LeetCode/InsertInterval.java)
+
+# [Minimum Number of Arrows to Burst Balloons](./LeetCode/MinimumNumberOfArrowsToBurstBalloons.java)
+
+# [Valid Parentheses](./LeetCode/ValidParentheses.java)
+
+# [Longest Increasing Subsequence](./LeetCode/LongestIncreasingSubsequence.java)
+
+# [Longest Common Subsequence](./LeetCode/LongestCommonSubsequence.java)
+
+# [Find the Longest Valid Obstacle Course at Each Position](./LeetCode/FindTheLongestValidObstacleCourseAtEachPosition.java)
+
+# [Minimum Insertion Steps to Make a String Palindrome](./LeetCode/MinimumInsertionStepsToMakeAStringPalindrome.java)
+
+# [Maximum Erasure Value](./LeetCode/MaximumErasureValue.java)
+
+# [Maximum Score From Removing Substrings](./LeetCode/MaximumScoreFromRemovingSubstrings.java)
+
+# [Minimum Score After Removals on a Tree](./LeetCode/MinimumScoreAfterRemovalsOnATree.java)
+
+# [Minimum Number of Operations to Make Array Continuous](./LeetCode/MinimumNumberOfOperationToMakeArrayContinuous.java)
+
+# [Maximum Unique Subarray Sun After Deletion](./LeetCode/MaximumUniquiSubarraySumAfterDeletion.java)
+
+# [Find All People With Secret](./LeetCode/FindAllPeopleWithSecret.java)
+
+# [Number of Flowers in Full Bloom](./LeetCode/NumberOfFlowersInFullBloom.java)
+
+# [Replace Non-Coprime Numbers in Array](./LeetCode/ReplaceNonCoprimeNumbersinArray.java)
+
+# [Contains Duplicate I](./LeetCode/ContainsDuplicateI.java)
+
+# [Contains Duplicate II](./LeetCode/ContainsDuplicateII.java)
+
+# [Contains Duplicate III](./LeetCode/ContainsDuplicateIII.java)
+
+# [Meeting Rooms I](./LeetCode/MeetingRoomsI.java)
+
+# [Meeting Rooms II](./LeetCode/MeetingRoomsII.java)
+
+# [Meeting Rooms III](./LeetCode/MeetingRoomsIII.java)
+
+# [Design a Text Editor](./LeetCode/DesignATextEditor.java)
+
+# [Design Skiplist](./LeetCode/DesignSkiplist.java)
+
+# [Russian Doll Envelopes](./LeetCode/RussianDollEnvelopes.java)
+
+# [Final Array State After K Multiplication Operations I](./LeetCode/FinalArrayStateAfterKMultiplicationOperationsI.java)
+
+# [Final Array State After K Multiplication Operations II](./LeetCode/FinalArrayStateArrayAfterKMultiplicationOperationsII.java)
+
+# [Longest Increasing Path in a Matrix](./LeetCode/LongestIncreasingPathInAMatrix.java)
+
+# [Longest Subarray With Maximum Bitwise AND](./LeetCode/LongestSubarrayWithMaximumBitwiseAND.java)
+
+# [Maximum Value Sum by Placing Three Rooks I](./LeetCode/MaximumValueSumByPlacingThreeRooksI.java)
+
+# [Maximum Value Sum by Placing Three Rooks II](./LeetCode/MaximumValueSumByPlacingThreeRooksII.java)
+
+# [Minimum Pair Removal to Sort Array I](./LeetCode/MinimumPairRemovalToSortArrayI.java)
+
+# [Minimum Pair Removal to Sort Array II](./LeetCode/MinimumPairRemovalToSortArrayII.java)
+
+# [Pascal's Triangle](./LeetCode/PascalsTriangle.java)
+
+# [Rearranging Fruits](./LeetCode/RearrangingFruits.java)
+
+# [Sliding Window Median](./LeetCode/SlidingWindowMedian.java)
+
+# [Smallest Palindromic Rearrangement I](./LeetCode/SmallestPalindromicRearrangementI.java)
+
+# [Smallest Palindromic Rearrangement II](./LeetCode/SmallestPalindromicRearrangementII.java)
+
+# [Smallest Subarrays With Maximum Bitwise OR](./LeetCode/SmallestSubarraysWithMaximumBitwiseOR.java)
+
+# [Maximum Fruits Harvested After at Most K Steps](./LeetCode/MaximumFruitsHarvestedAfterAtMostKSteps.java)
+
+# [Fruit Into Baskets](./LeetCode/FruitIntoBaskets.java)
+
+# [Fruits Into Baskets II](./LeetCode/FruitsIntoBasketsII.java)
+
+# [Fruits Into Baskets III](./LeetCode/FruitsIntoBasketsIII.java)
+
+# [Power of Two](./LeetCode/PowerOfTwo.java)
+
+# [Power of Three](./LeetCode/PowerOfThree.java)
+
+# [Power of Four](./LeetCode/PowerOfFour.java)
+
+# [Reordered Power of 2](./LeetCode/ReorderedPowerOf2.java)
+
+# [Range Product Queries of Powers](./LeetCode/RangeProductQueriesOfPowers.java)
+
+# [Maximum Good Subarray Sum](./LeetCode/MaximumGoodSubarrySum.java)
+
+# [Max Value of Equation](./LeetCode/MaxValueOfEquation.java)
+
+# [Constrained Subsequence Sum](./LeetCode/ConstrainedSubsequenceSum.java)
+
+# [Count Substrings That Can Be Rearranged to Contain a String I](./LeetCode/CountSubstringsThatCanBeRearrangedToContainAStringI.java)
+
+# [Count Substrings That Can Be Rearranged to Contain a String II](./LeetCode/CountSubstringsThatCanBeRearrangedToContainAStringII.java)
+
+# [Find the Power of K-Size Subarrays I](./LeetCode/FindThePowerOfKSizeSubarraysI.java)
+
+# [Find the Power of K-Size Subarrays II](./LeetCode/FindThePowerOfKSizeSubarraysII.java)
+
+# [24 Game](./LeetCode/TwentyFourGame.java)
+
+# [Maximum Length of Subarray With Positive Product](./LeetCode/MaximumLengthOfSubarrayWithPositiveProduct.java)
+
+# [Minimum Number of K Consecutive Bit Flips](./LeetCode/MinimumNumberOfKConsecutiveBitFlips.java)
+
+# [Number of Zero-Filled Subarrays](./LeetCode/NumberOfZeroFilledSubarrays.java)
+
+# [Find the Count of Numbers Which Are Not Special](./LeetCode/FindTheCountOfNumbersWhichAreNotSpecial.java)
+
+# [Count Square Submatrices with All Ones](./LeetCode/CountSquareSubmatricesWithAllOnes.java)
+
+# [Count Almost Equal Pairs I](./LeetCode/CountAlmostEqualPairsI.java)
+
+# [Sum of Subarray Minimums](./LeetCode/SumOfSubarrayMinimums.java)
+
+# [Minimum Cost to Make Arrays Identical](./LeetCode/MinimumCostToMakeArraysIdentical.java)
+
+# [Find the Minimum Area to Cover All Ones I](./LeetCode/FindTheMinimumAreaToCoverAllOnesI.java)
+
+# [Find the Minimum Area to Cover All Ones II](./LeetCode/FindTheMinimumAreaToCoverAllOnesII.java)
+
+# [Longest Subarray of 1's After Deleting One Element](./LeetCode/LongestSubarrayOf1sAfterDeletingOneElement.java)
+
+# [Maximum Subarray Sum with One Deletion](./LeetCode/MaximumSubarraySumWithOneDeletion.java)
+
+# [Diagonal Traverse](./LeetCode/DiagonalTraverse.java)
+
+# [Furthest Building You Can Reach](./LeetCode/FurthestBuildingYouCanReach.java)
+
+# [Special Permutations](./LeetCode/SpecialPermutations.java)
+
+# [Double Modular Exponentiation](./LeetCode/DoubleModularExponentiation.java)
+
+# [Maximum Area of Longest Diagonal Rectangle](./LeetCode/MaximumAreaOfLongestDiagonalRectangle.java)
+
+# [Length of Longest V-Shaped Diagonal Segment](./LeetCode/LengthOfLongestVShapedDiagonalSegment.java)
+
+# [Maximum Average Pass Ratio](./LeetCode/MaximumAveragePassRatio.java)
+
+# [Sort Matrix by Diagonals](./LeetCode/SortMatrixByDiagonals.java)
 
 <hr>
 
@@ -139,43 +262,80 @@
 
 <h1 align="center"><a href="./Codeforces/Codeforces.md">Codeforces</a></h1>
 
-- # [Permutation Transformation](./Codeforces/PermutationTransformation.java)
-- # [Team Training](./Codeforces/TeamTraining.java)
-- # [Parity Sort](./Codeforces/ParitySort.java)
-- # [Prepend And Append](./Codeforces/PrependAndAppend.java)
-- # [Gregor And The Pawn Game](./Codeforces/GregorAndThePawnGame.java)
-- # [Array Coloring](./Codeforces/ArrayColoring.java)
-- # [Word](./Codeforces/Word.java)
-- # [Calculating Function](./Codeforces/CalculatingFunction.java)
-- # [Cipher Shifer](./Codeforces/CipherShifer.java)
-- # [Race](./Codeforces/Race.java)
-- # [Same Differences](./Codeforces/SameDifferences.java)
-- # [Candies And Two Sisters](./Codeforces/CandiesAndTwoSisters.java)
-- # [Remove Two Letters](./Codeforces/RemoveTwoLetters.java)
-- # [Domino Piling](./Codeforces/DominoPiling.java)
-- # [Factorial Zeroes](./Codeforces/FactorialZeroes.java)
-- # [Love Triangle](./Codeforces/LoveTriangle.java)
-- # [Bit++](./Codeforces/BitPlusPlus.java)
-- # [Party](./Codeforces/Party.java)
-- # [Stone Game](./Codeforces/StoneGame.java)
-- # [Destroying Bridges](./Codeforces/DestroyingBridges.java)
-- # [Games](./Codeforces/Games.java)
-- # [Fair Division](./Codeforces/FairDivision.java)
-- # [Diameter of Graph](./Codeforces/DiameterOfGraph.java)
-- # [Fall Down](./Codeforces/FallDown.java)
-- # [Favorite Sequence](./Codeforces/FavoriteSequence.java)
-- # [George Accommodation](./Codeforces/GeorgeAccommodation.java)
-- # [Love Song](./Codeforces/LoveSong.java)
-- # [Reposts](./Codeforces/Reposts.java)
-- # [Computer Game](./Codeforces/ComputerGame.java)
-- # [Restoring Three Numbers](./Codeforces/RestoringThreeNumbers.java)
-- # [Fox and Snake](./Codeforces/FoxAndSnake.java)
-- # [Pangram](./Codeforces/Pangram.java)
-- # [QAQ](./Codeforces/QAQ.java)
-- # [Gift Carpet](./Codeforces/GiftCarpet.java)
-- # [Soft Drinking](./Codeforces/SoftDrinking.java)
-- # [Sum of Round Numbers](./Codeforces/SumOfRoundNumbers.java)
-- # [Stone on the Table](./Codeforces/StoneOnTheTable.java)
-- # [Seating in a Bus](./Codeforces/SeatingInABus.java)
+# [Permutation Transformation](./Codeforces/PermutationTransformation.java)
+
+# [Team Training](./Codeforces/TeamTraining.java)
+
+# [Parity Sort](./Codeforces/ParitySort.java)
+
+# [Prepend And Append](./Codeforces/PrependAndAppend.java)
+
+# [Gregor And The Pawn Game](./Codeforces/GregorAndThePawnGame.java)
+
+# [Array Coloring](./Codeforces/ArrayColoring.java)
+
+# [Word](./Codeforces/Word.java)
+
+# [Calculating Function](./Codeforces/CalculatingFunction.java)
+
+# [Cipher Shifer](./Codeforces/CipherShifer.java)
+
+# [Race](./Codeforces/Race.java)
+
+# [Same Differences](./Codeforces/SameDifferences.java)
+
+# [Candies And Two Sisters](./Codeforces/CandiesAndTwoSisters.java)
+
+# [Remove Two Letters](./Codeforces/RemoveTwoLetters.java)
+
+# [Domino Piling](./Codeforces/DominoPiling.java)
+
+# [Factorial Zeroes](./Codeforces/FactorialZeroes.java)
+
+# [Love Triangle](./Codeforces/LoveTriangle.java)
+
+# [Bit++](./Codeforces/BitPlusPlus.java)
+
+# [Party](./Codeforces/Party.java)
+
+# [Stone Game](./Codeforces/StoneGame.java)
+
+# [Destroying Bridges](./Codeforces/DestroyingBridges.java)
+
+# [Games](./Codeforces/Games.java)
+
+# [Fair Division](./Codeforces/FairDivision.java)
+
+# [Diameter of Graph](./Codeforces/DiameterOfGraph.java)
+
+# [Fall Down](./Codeforces/FallDown.java)
+
+# [Favorite Sequence](./Codeforces/FavoriteSequence.java)
+
+# [George Accommodation](./Codeforces/GeorgeAccommodation.java)
+
+# [Love Song](./Codeforces/LoveSong.java)
+
+# [Reposts](./Codeforces/Reposts.java)
+
+# [Computer Game](./Codeforces/ComputerGame.java)
+
+# [Restoring Three Numbers](./Codeforces/RestoringThreeNumbers.java)
+
+# [Fox and Snake](./Codeforces/FoxAndSnake.java)
+
+# [Pangram](./Codeforces/Pangram.java)
+
+# [QAQ](./Codeforces/QAQ.java)
+
+# [Gift Carpet](./Codeforces/GiftCarpet.java)
+
+# [Soft Drinking](./Codeforces/SoftDrinking.java)
+
+# [Sum of Round Numbers](./Codeforces/SumOfRoundNumbers.java)
+
+# [Stone on the Table](./Codeforces/StoneOnTheTable.java)
+
+# [Seating in a Bus](./Codeforces/SeatingInABus.java)
 
 <hr>
