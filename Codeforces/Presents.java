@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class Presents {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
         int[] p = new int[n];
         for(int i=0; i<n; ++i) {
-            p[i] = scanner.nextInt();
+            p[i] = sc.nextInt();
         }
         int[] ans = new int[n + 1];
         for(int i=0; i<n; ++i) {
@@ -17,5 +17,6 @@ public class Presents {
         for(int i=1; i<=n; ++i) {
             System.out.print(ans[i] + " ");
         }
+        sc.close();
     }
 }
