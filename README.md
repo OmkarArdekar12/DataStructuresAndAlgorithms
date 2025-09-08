@@ -179,5 +179,6 @@
 - ### [Seating in a Bus](./Codeforces/SeatingInABus.java)
 - ### [Presents](./Codeforces/Presents.java)
 - ### [1D Eraser](./Codeforces/OneDEraser.java)
+- ### [No Casino in the Mountains](./Codeforces/NoCasinoInTheMountains.java)
 
 <hr>
