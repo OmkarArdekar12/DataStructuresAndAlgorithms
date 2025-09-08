@@ -40,5 +40,6 @@
 - ## [Seating in a Bus](./SeatingInABus.java)
 - ## [Presents](./Presents.java)
 - ## [1D Eraser](./OneDEraser.java)
+- ## [No Casino in the Mountains](./NoCasinoInTheMountains.java)
 
 <hr>
