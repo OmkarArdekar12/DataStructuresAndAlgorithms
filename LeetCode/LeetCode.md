@@ -125,5 +125,6 @@
 - ## [Maximum Average Pass Ratio](./MaximumAveragePassRatio.java)
 - ## [Sort Matrix by Diagonals](./SortMatrixByDiagonals.java)
 - ## [Minimum Time to Revert Word to Initial State I](./MinimumTimeToRevertWordToInitialStateI.java)
+- ## [Minimum Time to Revert Word to Initial State I](./MinimumTimeToRevertWordToInitialStateII.java)
 
 <hr>
