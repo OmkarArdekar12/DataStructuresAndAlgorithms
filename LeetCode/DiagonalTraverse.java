@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class DiagonalTraverse {
     public static int[] findDiagonalOrder(int[][] mat) {
         int n = mat.length, m = mat[0].length;
+
         int size = n * m;
         int res[] = new int[size];
         int row = 0, col = 0;
@@ -37,6 +38,7 @@ public class DiagonalTraverse {
             }
             ++idx;
         }
+        
         return res;
 
         // int n = mat.length, m = mat[0].length;
