@@ -124,5 +124,6 @@
 - ## [Length of Longest V-Shaped Diagonal Segment](./LengthOfLongestVShapedDiagonalSegment.java)
 - ## [Maximum Average Pass Ratio](./MaximumAveragePassRatio.java)
 - ## [Sort Matrix by Diagonals](./SortMatrixByDiagonals.java)
+- ## [Minimum Time to Revert Word to Initial State I](./MinimumTimeToRevertWordToInitialStateI.java)
 
 <hr>

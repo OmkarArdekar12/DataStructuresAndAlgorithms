@@ -130,6 +130,7 @@
 - ### [Length of Longest V-Shaped Diagonal Segment](./LeetCode/LengthOfLongestVShapedDiagonalSegment.java)
 - ### [Maximum Average Pass Ratio](./LeetCode/MaximumAveragePassRatio.java)
 - ### [Sort Matrix by Diagonals](./LeetCode/SortMatrixByDiagonals.java)
+- ### [Minimum Time to Revert Word to Initial State I](./LeetCode/MinimumTimeToRevertWordToInitialStateI.java)
 
 <hr>
 
