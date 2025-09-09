@@ -126,5 +126,6 @@
 - ### [Sort Matrix by Diagonals](./LeetCode/SortMatrixByDiagonals.java)
 - ### [Minimum Time to Revert Word to Initial State I](./LeetCode/MinimumTimeToRevertWordToInitialStateI.java)
 - ### [Minimum Time to Revert Word to Initial State II](./LeetCode/MinimumTimeToRevertWordToInitialStateII.java)
+- ### [Number of People Aware of a Secret](./LeetCode/NumberOfPeopleAwareOfASecret.java)
 
 <hr><br>
