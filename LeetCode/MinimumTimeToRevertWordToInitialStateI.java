@@ -1,7 +1,7 @@
 // Minimum Time to Revert Word to Initial State I
 
 public class MinimumTimeToRevertWordToInitialStateI {
-    static int[] getLPS(String s) {
+    public static int[] getLPS(String s) {
         int n = s.length();
 
         int lps[] = new int[n];
