@@ -23,5 +23,6 @@ public class PrependAndAppend {
         	String s = br.readLine();
         	System.out.println(minBinaryStringStarted(n, s));
         }
+		br.close();
     }
 }
