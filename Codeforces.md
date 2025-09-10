@@ -41,5 +41,6 @@
 - ### [Presents](./Codeforces/Presents.java)
 - ### [1D Eraser](./Codeforces/OneDEraser.java)
 - ### [No Casino in the Mountains](./Codeforces/NoCasinoInTheMountains.java)
+- ### [Thorns and Coins](./Codeforces/ThornsAndCoins.java)
 
 <hr><br>
