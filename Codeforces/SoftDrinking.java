@@ -23,5 +23,7 @@ public class SoftDrinking {
         int res = Math.min(drink, Math.min(slice, salt)) / n;
 
         System.out.println(res);
+
+        br.close();
     }
 }
