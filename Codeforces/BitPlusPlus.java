@@ -17,5 +17,6 @@ public class BitPlusPlus {
 			}
 		}
 		System.out.println(x);
+		br.close();
 	}
 }
