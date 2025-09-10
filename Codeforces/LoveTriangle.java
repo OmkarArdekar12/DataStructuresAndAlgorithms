@@ -22,6 +22,7 @@ public class LoveTriangle {
         }
         System.out.println(isLoveTriangle ? "YES" : "NO");
         br.close();
+        
         // BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // int n = Integer.parseInt(br.readLine());
         // int f[] = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
