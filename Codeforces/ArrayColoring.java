@@ -20,6 +20,7 @@ public class ArrayColoring {
         }
         pw.close();
         br.close();
+        
         // BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // int t = Integer.parseInt(br.readLine());
         // PrintWriter pw = new PrintWriter(System.out);
