@@ -130,5 +130,6 @@
 - ### [Minimum Number of People to Teach](./LeetCode/MinimumNumberOfPeopleToTeach.java)
 - ### [Sort Vowels in a String](./LeetCode/SortVowelsInAString.java)
 - ### [Count the Number of Substrings With Dominant Ones](./LeetCode/CountTheNumberOfSubstringsWithDominantOnes.java)
+- ### [Find a Safe Walk Through a Grid](./LeetCode/FindASafeWalkThroughAGrid.java)
 
 <hr><br>
