@@ -131,5 +131,6 @@
 - ### [Sort Vowels in a String](./LeetCode/SortVowelsInAString.java)
 - ### [Count the Number of Substrings With Dominant Ones](./LeetCode/CountTheNumberOfSubstringsWithDominantOnes.java)
 - ### [Find a Safe Walk Through a Grid](./LeetCode/FindASafeWalkThroughAGrid.java)
+- ### [Count Paths With the Given XOR Value](./LeetCode/CountPathsWithTheGivenXORValue.java)
 
 <hr><br>
