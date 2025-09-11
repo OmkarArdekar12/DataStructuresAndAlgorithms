@@ -128,5 +128,6 @@
 - ### [Minimum Time to Revert Word to Initial State II](./LeetCode/MinimumTimeToRevertWordToInitialStateII.java)
 - ### [Number of People Aware of a Secret](./LeetCode/NumberOfPeopleAwareOfASecret.java)
 - ### [Minimum Number of People to Teach](./LeetCode/MinimumNumberOfPeopleToTeach.java)
+- ### [Sort Vowels in a String](./LeetCode/SortVowelsInAString.java)
 
 <hr><br>
