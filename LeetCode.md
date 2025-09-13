@@ -128,12 +128,12 @@
 - ### [Minimum Time to Revert Word to Initial State II](./LeetCode/MinimumTimeToRevertWordToInitialStateII.java)
 - ### [Number of People Aware of a Secret](./LeetCode/NumberOfPeopleAwareOfASecret.java)
 - ### [Minimum Number of People to Teach](./LeetCode/MinimumNumberOfPeopleToTeach.java)
+- ### [Vowels Game in a String](./LeetCode/VowelsGameInAString.java)
 - ### [Sort Vowels in a String](./LeetCode/SortVowelsInAString.java)
 - ### [Count the Number of Substrings With Dominant Ones](./LeetCode/CountTheNumberOfSubstringsWithDominantOnes.java)
 - ### [Find a Safe Walk Through a Grid](./LeetCode/FindASafeWalkThroughAGrid.java)
 - ### [Count Paths With the Given XOR Value](./LeetCode/CountPathsWithTheGivenXORValue.java)
 - ### [Find Minimum Cost to Remove Array Elements](./LeetCode/FindMinimumCostToRemoveArrayElements.java)
 - ### [Implement Router](./LeetCode/ImplementRouter.java)
-- ### [Vowels Game in a String](./LeetCode/VowelsGameInAString.java)
 
 <hr><br>
