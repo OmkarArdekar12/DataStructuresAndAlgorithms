@@ -133,6 +133,6 @@
 - ### [Find a Safe Walk Through a Grid](./LeetCode/FindASafeWalkThroughAGrid.java)
 - ### [Count Paths With the Given XOR Value](./LeetCode/CountPathsWithTheGivenXORValue.java)
 - ### [Find Minimum Cost to Remove Array Elements](./LeetCode/FindMinimumCostToRemoveArrayElements.java)
-- ### [3508. Implement Router](./LeetCode/ImplementRouter.java)
+- ### [Implement Router](./LeetCode/ImplementRouter.java)
 
 <hr><br>
