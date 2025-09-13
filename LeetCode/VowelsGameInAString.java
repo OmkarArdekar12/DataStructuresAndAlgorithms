@@ -14,7 +14,7 @@ public class VowelsGameInAString {
     }
 
     public static void main(String[] args) {
-        String s = "leetcode";
+        String s = "code";
         System.out.println(doesAliceWin(s));
     }
 }
