@@ -134,5 +134,6 @@
 - ### [Count Paths With the Given XOR Value](./LeetCode/CountPathsWithTheGivenXORValue.java)
 - ### [Find Minimum Cost to Remove Array Elements](./LeetCode/FindMinimumCostToRemoveArrayElements.java)
 - ### [Implement Router](./LeetCode/ImplementRouter.java)
+- ### [Vowels Game in a String](./LeetCode/VowelsGameInAString.java)
 
 <hr><br>
