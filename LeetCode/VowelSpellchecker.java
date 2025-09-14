@@ -53,8 +53,10 @@ public class VowelSpellchecker {
     }
     public static void main(String[] args) {
         String[] wordlist = {"KiTe","kite","hare","Hare"}, queries = {"kite","Kite","KiTe","Hare","HARE","Hear","hear","keti","keet","keto"};
-        String res[] = spellchecker(wordlist, queries);
-        String result[] = Arrays.stream(res).map(s -> "\"" + s + "\"").toArray(String[]::new);
-        System.out.println(Arrays.toString(result));
+        // String res[] = spellchecker(wordlist, queries);
+        // String result[] = Arrays.stream(res).map(s -> "\"" + s + "\"").toArray(String[]::new);
+        // System.out.println(Arrays.toString(result));
+        String res[] = Arrays.stream(spellchecker(wordlist, queries)).map(s -> "\"" + s + "\"").toArray(String[]::new);
+        System.out.println(Arrays.toString(res));
     }
 }
