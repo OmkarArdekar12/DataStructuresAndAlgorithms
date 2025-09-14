@@ -1,5 +1,7 @@
 // Vowel Spellchecker
 
+import java.util.*;
+
 public class VowelSpellchecker {
     static boolean isVowel(char c) {
         return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');
