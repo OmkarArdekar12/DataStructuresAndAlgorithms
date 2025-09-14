@@ -51,4 +51,8 @@ public class VowelSpellchecker {
 
         return res;        
     }
+    public static void main(String[] args) {
+        String[] wordlist = {"KiTe","kite","hare","Hare"}, queries = {"kite","Kite","KiTe","Hare","HARE","Hear","hear","keti","keet","keto"};
+        String[] res = spellchecker(wordlist, queries);
+    }
 }
