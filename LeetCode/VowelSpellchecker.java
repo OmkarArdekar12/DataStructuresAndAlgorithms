@@ -15,7 +15,7 @@ public class VowelSpellchecker {
         }
         return sb.toString();
     }
-    public String[] spellchecker(String[] wordlist, String[] queries) {
+    public static String[] spellchecker(String[] wordlist, String[] queries) {
         int n = wordlist.length;
         int m = queries.length;
 
