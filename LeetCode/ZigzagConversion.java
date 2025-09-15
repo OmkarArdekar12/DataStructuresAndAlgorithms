@@ -7,7 +7,7 @@
 // And then read line by line: "PAHNAPLSIIGYIR"
 
 public class ZigzagConversion {
-    public String convert(String s, int numRows) {
+    public static String convert(String s, int numRows) {
         if(numRows == 1) { //base/edge/corner case
             return s;
         }
@@ -28,9 +28,8 @@ public class ZigzagConversion {
     }
 
     public static void main(String[] args) {
-        ZigzagConversion obj = new ZigzagConversion();
         String s = "PAYPALISHIRING";
         int numRows = 3;
-        System.out.println(obj.convert(s, numRows));
+        System.out.println(convert(s, numRows));
     }
 }
