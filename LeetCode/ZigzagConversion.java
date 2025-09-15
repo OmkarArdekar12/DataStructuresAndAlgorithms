@@ -31,5 +31,10 @@ public class ZigzagConversion {
         String s = "PAYPALISHIRING";
         int numRows = 3;
         System.out.println(convert(s, numRows));
+
+        // ZigzagConversion obj = new ZigzagConversion();
+        // String s = "PAYPALISHIRING";
+        // int numRows = 3;
+        // System.out.println(obj.convert(s, numRows));
     }
 }
