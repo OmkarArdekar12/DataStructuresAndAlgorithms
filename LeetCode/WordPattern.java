@@ -9,7 +9,7 @@ public class WordPattern {
         if(n != m) {
             return false;
         }
-        Map<Character, String> map = new HashMap<>();
+        HashMap<Character, String> map = new HashMap<>();
         Map<String, Character> reverseMap = new HashMap<>();
         for(int i=0; i<n; ++i) {
             char ch = pattern.charAt(i);
