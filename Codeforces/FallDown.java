@@ -5,28 +5,28 @@ import java.util.Scanner;
 
 public class FallDown {
     public static void fallDown(int n, int m, char[][] grid) {
-        // Process each column separately
+        //Process each column separately
         for(int j=0; j<m; ++j) {
-            // The position where the next stone should fall
+            //The position where the next stone should fall
             int bottom = n - 1;
             
-            // Process column from bottom to top
+            //Process column from bottom to top
             for(int i=n-1; i>=0; --i) {
                 if(grid[i][j] == '*') {
-                    // If it's not already at the bottom position, move it down
+                    //If it's not already at the bottom position, move it down
                     if(i != bottom) {
                         grid[bottom][j] = '*';
                         grid[i][j] = '.';
                     }
                     bottom--;
                 } else if (grid[i][j] == 'o') {
-                    // Obstacle - reset the bottom position
+                    //Obstacle - reset the bottom position
                     bottom = i - 1;
                 }
             }
         }
         
-        // Print the result
+        //Print the result
         for(int i=0; i<n; ++i) {
             for (int j=0; j<m; ++j) {
                 System.out.print(grid[i][j]);
