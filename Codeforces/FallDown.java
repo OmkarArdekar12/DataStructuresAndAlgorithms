@@ -39,13 +39,13 @@ public class FallDown {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
-        for (int k = 0; k < t; k++) {
+        for(int k=0; k<t; ++k) {
             int n = sc.nextInt();
             int m = sc.nextInt();
             char[][] grid = new char[n][m];
-            for (int i = 0; i < n; i++) {
+            for(int i=0; i<n; ++i) {
                 String s = sc.next();
-                for (int j = 0; j < m; j++) {
+                for (int j=0; j<m; ++j) {
                     grid[i][j] = s.charAt(j);
                 }
             }
