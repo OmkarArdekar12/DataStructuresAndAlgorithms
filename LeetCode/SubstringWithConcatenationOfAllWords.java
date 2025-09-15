@@ -77,6 +77,7 @@ public class SubstringWithConcatenationOfAllWords {
         // }
         // return res;
     }
+    
     public static void main(String[] args) {
         String s = "barfoothefoobarman", words[] = {"foo","bar"};
         System.out.println(findSubstring(s, words));
