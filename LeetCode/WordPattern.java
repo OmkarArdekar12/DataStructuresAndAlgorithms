@@ -49,6 +49,7 @@ public class WordPattern {
         // return true;
     }
     public static void main(String[] args) {
-        System.out.println(wordPattern("abba", "dog cat cat dog"));
+        String pattern = "abba", s = "dog cat cat dog";
+        System.out.println(wordPattern(pattern, s));
     }
 }
