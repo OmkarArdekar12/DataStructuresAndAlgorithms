@@ -56,7 +56,6 @@ public class FallDown {
 }
 
 // import java.util.*;
-
 // public class FallDown {
 // 	public static void fallDown(int n, int m, char grid[][]) {
 // 		char res[][] = new char[n][m];
@@ -78,12 +77,10 @@ public class FallDown {
 // 					sb.append(ch);
 // 				}
 // 			}
-
 // 			for(int i=0; i<n; ++i) {
 // 				res[i][j] = sb.charAt(i);
 // 			}
 // 		}
-
 // 		for(int i=0; i<n; ++i) {
 // 			for(int j=0; j<m; ++j) {
 // 				System.out.print(res[i][j]);
@@ -92,7 +89,6 @@ public class FallDown {
 // 		}
 // 		System.out.println();
 // 	}
-
 // 	public static void main(String[] args) {
 // 		Scanner sc = new Scanner(System.in);
 // 		int t = sc.nextInt();
@@ -115,7 +111,6 @@ public class FallDown {
 //Optimized Solution
 // import java.io.*;
 // import java.util.*;
-
 // public class FallDown {
 //     public static void main(String[] args) throws IOException {
 //         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -124,7 +119,6 @@ public class FallDown {
 //             StringTokenizer st = new StringTokenizer(br.readLine());
 //             int n = Integer.parseInt(st.nextToken());
 //             int m = Integer.parseInt(st.nextToken());
-            
 //             char[][] grid = new char[n][m];
 //             for (int i = 0; i < n; i++) {
 //                 String s = br.readLine();
@@ -135,7 +129,6 @@ public class FallDown {
 //             fallDown(n, m, grid);
 //         }
 //     }
-
 //     public static void fallDown(int n, int m, char[][] grid) {
 //         for (int j = 0; j < m; j++) {
 //             int bottom = n - 1;
@@ -151,7 +144,6 @@ public class FallDown {
 //                 }
 //             }
 //         }
-
 //         for (char[] row : grid) {
 //             System.out.println(new String(row));
 //         }
